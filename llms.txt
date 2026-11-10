@@ -10,3 +10,7 @@ El equipo de Software in a Box ha participado en el desarrollo tecnológico de t
 
 ## Contacto
 - emilio.mulet@softwareinabox.eu · +34 601 398 868 · Madrid
+
+## Idiomas / Languages
+- [Español](https://datos.softwareinabox.eu/)
+- [English](https://datos.softwareinabox.eu/en/)

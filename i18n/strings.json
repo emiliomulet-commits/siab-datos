@@ -1,0 +1,858 @@
+[
+ {
+  "id": "0dc46f8267",
+  "src": "Espacios de datos federados · Gaia-X y EHDS | Software in a Box",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "06847340cc",
+  "src": "<b>Espacios de datos</b><small>de Software in a Box</small>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "bd9a5e5bd1",
+  "src": "<a href=\"#que-es\">Qué es</a><a href=\"#tecnologia\">Tecnología</a><a href=\"#experiencia\">Experiencia</a><a href=\"#salud\">Salud dental</a><a class=\"btn btn-teal\" href=\"#contacto\">Hablemos</a>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "b734b6719b",
+  "src": "Gaia-X · EHDS · Data Act",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "014208bd7f",
+  "src": "Compartir datos <em>sin perder el control</em>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "4bbe777eee",
+  "src": "Diseñamos y desplegamos espacios de datos federados: cada organización conserva sus datos, decide quién los usa y para qué, y la inteligencia artificial aprende de muchos sin que nada se centralice.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "c61d1ed467",
+  "src": "<a class=\"btn btn-gold\" href=\"#salud\">Ver el caso de salud dental</a><a class=\"btn btn-line\" href=\"#contacto\">Solicitar una reunión</a>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "fa5c86fce8",
+  "src": "Catálogo y",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "3bd29e875e",
+  "src": "reglas comunes",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "dbb927867e",
+  "src": "Hospital",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "9d1ba7ae6a",
+  "src": "nodo + conector",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "6bbbad7990",
+  "src": "Clínica dental",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "2c0fe1c348",
+  "src": "nodo en Azure",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "9c1c6f0491",
+  "src": "Industria",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "a571613348",
+  "src": "Fabricante de IA",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "febb227482",
+  "src": "consumidor",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "8e0b20ac23",
+  "src": "Universidad",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "25dc6a95f3",
+  "src": "Qué es",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "97166eb644",
+  "src": "Un espacio de datos son reglas, no un almacén",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "7788484a7a",
+  "src": "No hay una gran base de datos central. Hay organizaciones que se reconocen entre sí, un catálogo de lo que cada una ofrece y contratos que dicen exactamente qué se puede hacer con cada dato.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "131bdb2e02",
+  "src": "Soberanía",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "d220440048",
+  "src": "El dato se queda en casa de quien lo custodia. Decide quién accede, para qué y durante cuánto tiempo.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "7c97542b0d",
+  "src": "Contratos ODRL",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "58594aa835",
+  "src": "Las condiciones de uso se escriben de forma que una máquina las aplica. Sin contrato, no hay acceso.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "e727cabe1c",
+  "src": "Confianza Gaia-X",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "91cee89b8d",
+  "src": "Cada organización se identifica con credenciales verificables emitidas por servicios de confianza.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "8152c5b8cf",
+  "src": "IA sin mover datos",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "68c549c9f9",
+  "src": "Los modelos se entrenan donde está el dato (aprendizaje federado y cómputo confidencial).",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "cbbb0a7615",
+  "src": "Cómo funciona",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "810490ec22",
+  "src": "De la fuente al resultado en seis pasos",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "7765ef2d0c",
+  "src": "Conectar",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "fbd95dc9af",
+  "src": "conector en el nodo de cada miembro",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "49961c1398",
+  "src": "Normalizar",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "ee41e121d2",
+  "src": "FHIR, DICOM, OMOP u otros modelos sectoriales",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "9df643f069",
+  "src": "Publicar",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "e3c191b78d",
+  "src": "oferta en el catálogo (DCAT, HealthDCAT-AP)",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "b733999e8d",
+  "src": "Contratar",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "dd6fe773d7",
+  "src": "negociación con política ODRL",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "3bb2aec128",
+  "src": "Calcular",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "e2c46f7f91",
+  "src": "el algoritmo va al dato",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "d39b29c797",
+  "src": "Auditar",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "7e980befff",
+  "src": "quién, cuándo, qué y con qué contrato",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "531479480a",
+  "src": "Familia «Web 2»",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "eb9d8b78e6",
+  "src": "Eclipse EDC · Tractus-X",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "3ce75c92ca",
+  "src": "<b>Dataspace Protocol</b><span>catálogo, negociación y transferencia</span>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "2746ac20f5",
+  "src": "<b>Identity Hub</b><span>credenciales verificables de las organizaciones</span>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "4995543dfe",
+  "src": "<b>Despliegue en Kubernetes</b><span>Helm y Terraform, en cualquier nube o en local</span>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "3cddba694b",
+  "src": "Familia «Web 3»",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "42be609ffb",
+  "src": "Pontus-X · Gaia-X",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "d5f711f553",
+  "src": "<b>Cómputo junto al dato</b><span>el algoritmo viaja, el dato se queda</span>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "db643234f1",
+  "src": "<b>Registro distribuido</b><span>trazabilidad de cada acceso</span>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "17143b9a3d",
+  "src": "<b>Monetización trazable</b><span>pago por uso del dato</span>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "fbb04c1aaf",
+  "src": "Experiencia",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "564f843722",
+  "src": "Probado en tres espacios de datos reales",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "5db4554678",
+  "src": "El equipo de Software in a Box ha participado en el desarrollo tecnológico de tres espacios de datos cofinanciados por la SEDIA entre 2024 y 2026.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "f739b9febe",
+  "src": "SALUD",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "6ec4ab1f0f",
+  "src": "Global Data Care",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "863263d715",
+  "src": "Espacio de datos sanitario sobre Pontus-X y Gaia-X, con trabajo de cumplimiento para la Lista de Confianza del programa español de espacios de datos.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "1df50efbde",
+  "src": "COMPRAS",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "6311162e0d",
+  "src": "PROCUREDATA",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "7794046412",
+  "src": "Espacio de datos de gestión de compras con conectores Eclipse e integración con sistemas ERP existentes.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "f74d3d87af",
+  "src": "ECONOMÍA CIRCULAR",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "6a3c17ecaa",
+  "src": "EcoDataNet",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "deea17e2c7",
+  "src": "Trazabilidad de residuos y economía circular con políticas de uso y credenciales verificables.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "d67387ca51",
+  "src": "<span class=\"chip\">RGPD</span><span class=\"chip\">EHDS (Reglamento UE 2025/327)</span><span class=\"chip\">Data Act</span><span class=\"chip\">Data Governance Act</span><span class=\"chip\">Reglamento de IA</span><span class=\"chip\">NIS2 · ENS</span><span class=\"chip\">Gaia-X Trust Framework</span>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "1c58f86693",
+  "src": "Primer vertical",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "b6270f1dd7",
+  "src": "Espacio de datos para clínicas dentales con IA sobre Microsoft Azure",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "7e4611a319",
+  "src": "Una red de clínicas que entrena y mejora la IA de diagnóstico sin que los datos de los pacientes salgan de cada clínica. Microsoft dentro del nodo; estándares abiertos en la frontera.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "0a8d738c99",
+  "src": "Qué incluye",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "040d844323",
+  "src": "Nodo de datos por clínica en Azure: historia clínica en FHIR e imagen en DICOM, seudonimizadas en origen.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "c5647703df",
+  "src": "IA de apoyo al diagnóstico: caries interproximal y pérdida ósea periodontal en radiografía, con validación del dentista.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "b383694757",
+  "src": "Asistente de expediente: resumen de la historia y borrador de plan de tratamiento revisable.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "49a849570c",
+  "src": "Conector Eclipse EDC, catálogo HealthDCAT-AP y contratos ODRL entre miembros.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "0c77b887a6",
+  "src": "Entrenamiento federado entre clínicas con cómputo confidencial.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "f971750e3f",
+  "src": "<b>3 + 3</b><span>meses de MVP y piloto</span>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "3f766fd745",
+  "src": "<b>3–5</b><span>clínicas en el piloto</span>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "3252a29aa6",
+  "src": "<b>0</b><span>datos clínicos fuera de la clínica</span>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "a80fb1935e",
+  "src": "Por qué ahora",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "bab2b9da9c",
+  "src": "<b>26/03/2027</b><span>Aplicación general del EHDS</span>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "686dbaf6fb",
+  "src": "<b>02/08/2028</b><span>Reglamento de IA para la IA en productos sanitarios</span>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "f72d945d0f",
+  "src": "<b>26/03/2029</b><span>Uso secundario de datos de salud con permiso</span>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "b8f90bbefd",
+  "src": "<b>2031</b><span>Imagen médica en MyHealth@EU</span>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "58e07ddbe0",
+  "src": "¿Quiere crear o unirse a un espacio de datos?",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "d035133cd7",
+  "src": "Le ayudamos a definir las reglas, desplegar los nodos y poner la IA a trabajar sobre datos que siguen siendo suyos.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "e68491e91c",
+  "src": "Nombre",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "b42872a07b",
+  "src": "Organización",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "98f00c3e0a",
+  "src": "Correo",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "eb9e23efc4",
+  "src": "Mensaje",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "3b43defc8d",
+  "src": "He leído y acepto la <a href=\"https://www.softwareinabox.eu/privacidad.html\" target=\"_blank\" rel=\"noopener\">política de privacidad</a>. Usaremos sus datos solo para responderle.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "46344c8064",
+  "src": "Enviar consulta",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "95198baefc",
+  "src": "O escriba a <a href=\"mailto:emilio.mulet@softwareinabox.eu\" style=\"color:#fff;font-weight:600\">emilio.mulet@softwareinabox.eu</a> · <a href=\"tel:+34601398868\" style=\"color:#fff;font-weight:600\">+34 601 398 868</a>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "0253235f44",
+  "src": "© 2026 Software in a Box · Espacios de datos federados",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "300c3f1674",
+  "src": "<a href=\"https://www.softwareinabox.eu/\">Software in a Box</a><a href=\"https://cognitiv.softwareinabox.eu/\">COGNITIV</a><a href=\"https://argos.softwareinabox.eu/\">ARGOS</a>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "10c2f10169",
+  "src": "<a href=\"https://www.softwareinabox.eu/aviso-legal.html\">Aviso legal</a><a href=\"https://www.softwareinabox.eu/privacidad.html\">Privacidad</a><a href=\"https://www.softwareinabox.eu/cookies.html\">Cookies</a>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "d6cf3109e5",
+  "src": "Software in a Box diseña y despliega espacios de datos federados conformes a Gaia-X y al EHDS: conectores Eclipse EDC y Pontus-X, contratos ODRL, credenciales verificables y entrenamiento de IA sin mover el dato. Primer vertical: clínicas dentales con IA sobre Microsoft Azure.",
+  "kind": "attr",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "b1eda5ad41",
+  "src": "Espacios de datos federados · Software in a Box",
+  "kind": "attr",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "659c750cc5",
+  "src": "Compartir datos sin perder el control: conectores, contratos ODRL, credenciales Gaia-X y EHDS.",
+  "kind": "attr",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "d2e203e114",
+  "src": "Espacios de datos federados",
+  "kind": "jsonld",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "0936bb9855",
+  "src": "Software in a Box",
+  "kind": "jsonld",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "481911a7fd",
+  "src": "Diseño, despliegue y operación de espacios de datos federados conformes a Gaia-X y al EHDS",
+  "kind": "jsonld",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "354647f3f0",
+  "src": "Espacios de datos",
+  "kind": "jsonld",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "bfd74951d7",
+  "src": "llms.txt",
+  "kind": "attr",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "f3b86b13db",
+  "src": "Principal",
+  "kind": "attr",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "35ec8dedad",
+  "src": "Red de nodos federados alrededor de un catálogo común",
+  "kind": "attr",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "c3a7afcc99",
+  "src": "Nombre y apellidos",
+  "kind": "attr",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "5fd7a2295e",
+  "src": "Correo profesional",
+  "kind": "attr",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "21de264676",
+  "src": "¿Quiere crear un espacio de datos, unirse a uno o explorar el vertical de salud?",
+  "kind": "attr",
+  "pages": [
+   "index.html"
+  ]
+ }
+]
