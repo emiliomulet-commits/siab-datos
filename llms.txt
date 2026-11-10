@@ -1,0 +1,12 @@
+# Espacios de datos federados · Software in a Box
+
+> Software in a Box diseña y despliega espacios de datos federados alineados con Gaia-X e IDSA: cada organización conserva sus datos y comparte solo lo que autoriza, con políticas de uso (ODRL), identidades verificables y cómputo sobre el dato. Incluye un vertical de salud dental preparado para el Espacio Europeo de Datos Sanitarios (EHDS).
+
+- [Web de Espacios de datos](https://datos.softwareinabox.eu/): qué es, cómo funciona, experiencia y vertical de salud.
+- [Software in a Box](https://www.softwareinabox.eu/): empresa matriz, también desarrolla COGNITIV y ARGOS.
+
+## Experiencia
+El equipo de Software in a Box ha participado en el desarrollo tecnológico de tres demostradores de espacios de datos cofinanciados por la SEDIA: Global Data Care (salud), PROCUREDATA (contratación) y EcoDataNet (economía circular).
+
+## Contacto
+- emilio.mulet@softwareinabox.eu · +34 601 398 868 · Madrid
