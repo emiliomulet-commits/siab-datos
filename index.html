@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Espacios de datos federados · Gaia-X y EHDS | Software in a Box</title>
+<meta name="description" content="Software in a Box diseña y despliega espacios de datos federados conformes a Gaia-X y al EHDS: conectores Eclipse EDC y Pontus-X, contratos ODRL, credenciales verificables y entrenamiento de IA sin mover el dato. Primer vertical: clínicas dentales con IA sobre Microsoft Azure.">
+<link rel="canonical" href="https://datos.softwareinabox.eu/">
+<meta property="og:type" content="website"><meta property="og:site_name" content="Software in a Box">
+<meta property="og:title" content="Espacios de datos federados · Software in a Box">
+<meta property="og:description" content="Compartir datos sin perder el control: conectores, contratos ODRL, credenciales Gaia-X y EHDS.">
+<meta property="og:url" content="https://datos.softwareinabox.eu/">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230F4D55'/%3E%3Ccircle cx='32' cy='32' r='8' fill='none' stroke='%23C9A227' stroke-width='4'/%3E%3Cpath d='M14 14l12 12M50 14 38 26M14 50l12-12M50 50 38 38' stroke='%23C9A227' stroke-width='4'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&family=Hanken+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[
+ {"@type":"Service","@id":"https://datos.softwareinabox.eu/#service","name":"Espacios de datos federados","url":"https://datos.softwareinabox.eu/",
+  "provider":{"@type":"Organization","@id":"https://www.softwareinabox.eu/#organization","name":"Software in a Box","url":"https://www.softwareinabox.eu/"},
+  "areaServed":"EU","serviceType":"Diseño, despliegue y operación de espacios de datos federados conformes a Gaia-X y al EHDS"},
+ {"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Software in a Box","item":"https://www.softwareinabox.eu/"},{"@type":"ListItem","position":2,"name":"Espacios de datos","item":"https://datos.softwareinabox.eu/"}]}
+]}
+</script>
+<style>
+:root{--navy:#0B2545;--gold:#C9A227;--gold-t:#8A6D0B;--teal:#1B998B;--dteal:#137A6F;--deep:#0F4D55;--cream:#F4F8F7;--ink:#1E2633;--mute:#5B6573;--line:#E3E6EC}
+*{box-sizing:border-box;margin:0;padding:0}html{scroll-behavior:smooth}
+body{font-family:'Hanken Grotesk',system-ui,sans-serif;color:var(--ink);line-height:1.55;-webkit-font-smoothing:antialiased}
+h1,h2,h3{font-family:'Montserrat',sans-serif;color:var(--navy);letter-spacing:-.015em}
+a{color:inherit}.wrap{max-width:1180px;margin:0 auto;padding:0 28px}
+header{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.93);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.nav{display:flex;align-items:center;justify-content:space-between;height:66px}
+.brand{display:flex;align-items:center;gap:12px;text-decoration:none}
+.brand b{font-family:'Montserrat';font-weight:800;font-size:17px;color:var(--navy)}
+.brand small{display:block;font-size:12px;color:var(--mute);font-weight:600}
+.menu{display:flex;gap:24px;font-weight:600;font-size:15px;align-items:center}.menu a{text-decoration:none}.menu a:hover{color:var(--teal)}
+.btn{display:inline-flex;align-items:center;padding:12px 20px;border-radius:10px;font-weight:700;font-size:15px;text-decoration:none;border:2px solid transparent}
+.btn-gold{background:var(--gold);color:var(--navy)}.btn-line{border-color:rgba(255,255,255,.45);color:#fff}.btn-teal{background:var(--teal);color:#fff}
+.eyebrow{font-family:'Montserrat';font-weight:700;font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);display:flex;align-items:center;gap:12px}
+.eyebrow:before{content:'';width:28px;height:3px;background:var(--gold);border-radius:2px}.eyebrow.dk{color:var(--gold-t)}
+.hero{background:radial-gradient(900px 420px at 90% 0%,#1B998B55,transparent 60%),linear-gradient(160deg,#0B2545,#0F4D55);color:#fff}
+.hero .wrap{display:grid;grid-template-columns:1.05fr .95fr;gap:40px;align-items:center;padding:80px 28px}
+.hero h1{color:#fff;font-size:clamp(34px,4.4vw,54px);line-height:1.07;font-weight:800;margin:16px 0}
+.hero h1 em{font-style:normal;color:var(--gold)}.hero p{font-size:19px;color:#C9D3E0;max-width:560px}
+.ctas{display:flex;gap:12px;margin-top:28px;flex-wrap:wrap}
+section{padding:84px 0}.head{max-width:760px;margin-bottom:40px}.head h2{font-size:clamp(28px,3.1vw,40px);line-height:1.12;margin-top:12px}.head p{font-size:18px;color:var(--mute);margin-top:12px}
+.grid4{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}.grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}.grid2{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.card{border:1px solid var(--line);border-radius:16px;padding:22px;background:#fff;box-shadow:0 4px 18px rgba(11,37,69,.05)}
+.card h3{font-size:18px;margin:12px 0 6px}.card p{font-size:15.5px;color:var(--mute)}
+.ic{width:46px;height:46px;border-radius:12px;display:flex;align-items:center;justify-content:center;background:#DDF1EE}
+.ic svg{width:24px;height:24px;stroke:var(--dteal)}
+.num{font-family:'Montserrat';font-weight:800;color:var(--teal);font-size:14px;letter-spacing:.1em}
+.flow{display:grid;grid-template-columns:repeat(6,1fr);gap:10px;counter-reset:s}
+.step{background:#fff;border-radius:14px;padding:18px 14px;text-align:center;border:1px solid var(--line);position:relative}
+.step b{display:block;font-family:'Montserrat';color:var(--navy);margin:8px 0 4px;font-size:16px}.step span{font-size:13.5px;color:var(--mute)}
+.step .c{width:36px;height:36px;border-radius:50%;margin:0 auto;background:var(--navy);color:var(--gold);font-weight:800;font-family:'Montserrat';display:flex;align-items:center;justify-content:center}
+.soft{background:var(--cream)}
+.fam{border-radius:18px;padding:26px}.fam h3{font-size:21px}.fam .sub{font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;margin:4px 0 14px}
+.fam ul{list-style:none;display:flex;flex-direction:column;gap:9px}.fam li{background:#fff;border-radius:10px;padding:10px 12px;font-size:15px}
+.fam li b{display:block;font-size:15px}.fam li span{font-size:13.5px;color:var(--mute)}
+.dental{background:var(--navy);color:#fff}.dental h2{color:#fff}.dental .head p{color:#AAB7C8}
+.dgrid{display:grid;grid-template-columns:1.1fr .9fr;gap:30px;align-items:start}
+.dcard{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.15);border-radius:16px;padding:22px}
+.dcard h3{color:#fff;font-size:18px;margin-bottom:8px}.dcard p,.dcard li{color:#C9D3E0;font-size:15.5px}.dcard ul{padding-left:18px;display:flex;flex-direction:column;gap:6px}
+.tl{display:flex;flex-direction:column;gap:12px}.tl div{display:flex;gap:14px;align-items:baseline}.tl b{font-family:'Montserrat';color:var(--gold);min-width:104px;font-size:15px}.tl span{color:#C9D3E0;font-size:15px}
+.kpi{display:flex;gap:26px;margin-top:22px;flex-wrap:wrap}.kpi b{display:block;font-family:'Montserrat';font-size:28px;color:#fff}.kpi span{font-size:13.5px;color:#AAB7C8}
+.chips{display:flex;flex-wrap:wrap;gap:10px;margin-top:24px}.chip{font-size:14px;font-weight:600;padding:8px 14px;border-radius:999px;background:#EEF2F7;color:var(--navy)}
+.cta{background:linear-gradient(160deg,#0F4D55,#0B2545);color:#fff;text-align:center}.cta h2{color:#fff;font-size:clamp(28px,3.2vw,40px)}.cta p{color:#C9D3E0;font-size:18px;margin:12px auto 0;max-width:640px}
+footer{background:#081A33;color:#AAB7C8;padding:34px 0;font-size:14.5px}.ft{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}.ft a{color:#fff;text-decoration:none;margin-right:16px}
+@media(max-width:980px){.hero .wrap,.grid2,.dgrid{grid-template-columns:1fr}.grid4,.grid3{grid-template-columns:1fr 1fr}.flow{grid-template-columns:repeat(2,1fr)}.menu a:not(.btn){display:none}section{padding:62px 0}}
+@media(max-width:560px){.grid4,.grid3{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header><div class="wrap nav">
+  <a class="brand" href="https://www.softwareinabox.eu/" aria-label="Software in a Box">
+    <svg width="34" height="34" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#0F4D55"/><circle cx="32" cy="32" r="8" fill="none" stroke="#C9A227" stroke-width="4"/><path d="M14 14l12 12M50 14 38 26M14 50l12-12M50 50 38 38" stroke="#C9A227" stroke-width="4"/></svg>
+    <span><b>Espacios de datos</b><small>de Software in a Box</small></span></a>
+  <nav class="menu" aria-label="Principal"><a href="#que-es">Qué es</a><a href="#tecnologia">Tecnología</a><a href="#experiencia">Experiencia</a><a href="#salud">Salud dental</a><a class="btn btn-teal" href="#contacto">Hablemos</a></nav>
+</div></header>
+
+<main>
+<section class="hero" style="padding:0"><div class="wrap">
+  <div>
+    <div class="eyebrow">Gaia-X · EHDS · Data Act</div>
+    <h1>Compartir datos <em>sin perder el control</em></h1>
+    <p>Diseñamos y desplegamos espacios de datos federados: cada organización conserva sus datos, decide quién los usa y para qué, y la inteligencia artificial aprende de muchos sin que nada se centralice.</p>
+    <div class="ctas"><a class="btn btn-gold" href="#salud">Ver el caso de salud dental</a><a class="btn btn-line" href="#contacto">Solicitar una reunión</a></div>
+  </div>
+  <svg viewBox="0 0 480 400" role="img" aria-label="Red de nodos federados alrededor de un catálogo común">
+    <g stroke="#C9A227" stroke-width="2" stroke-dasharray="6 7" fill="none" opacity=".8"><path d="M240 200 90 80M240 200 390 80M240 200 80 320M240 200 400 320M240 200 240 40"/></g>
+    <circle cx="240" cy="200" r="70" fill="#0B2545" stroke="#C9A227" stroke-width="3"/>
+    <text x="240" y="194" text-anchor="middle" font-family="Montserrat" font-weight="800" font-size="14" fill="#fff">Catálogo y</text>
+    <text x="240" y="214" text-anchor="middle" font-family="Montserrat" font-weight="800" font-size="14" fill="#fff">reglas comunes</text>
+    <g font-family="Hanken Grotesk" font-size="13" font-weight="700" fill="#0B2545">
+      <rect x="30" y="52" width="120" height="54" rx="12" fill="#fff"/><text x="90" y="76" text-anchor="middle">Hospital</text><text x="90" y="94" text-anchor="middle" font-weight="500" fill="#5B6573">nodo + conector</text>
+      <rect x="330" y="52" width="120" height="54" rx="12" fill="#fff"/><text x="390" y="76" text-anchor="middle">Clínica dental</text><text x="390" y="94" text-anchor="middle" font-weight="500" fill="#5B6573">nodo en Azure</text>
+      <rect x="20" y="294" width="120" height="54" rx="12" fill="#fff"/><text x="80" y="318" text-anchor="middle">Industria</text><text x="80" y="336" text-anchor="middle" font-weight="500" fill="#5B6573">nodo + conector</text>
+      <rect x="340" y="294" width="120" height="54" rx="12" fill="#fff"/><text x="400" y="318" text-anchor="middle">Fabricante de IA</text><text x="400" y="336" text-anchor="middle" font-weight="500" fill="#5B6573">consumidor</text>
+      <rect x="180" y="14" width="120" height="50" rx="12" fill="#DDF1EE"/><text x="240" y="44" text-anchor="middle">Universidad</text></g>
+  </svg>
+</div></section>
+
+<section id="que-es"><div class="wrap">
+  <div class="head"><div class="eyebrow dk">Qué es</div><h2>Un espacio de datos son reglas, no un almacén</h2><p>No hay una gran base de datos central. Hay organizaciones que se reconocen entre sí, un catálogo de lo que cada una ofrece y contratos que dicen exactamente qué se puede hacer con cada dato.</p></div>
+  <div class="grid4">
+    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg></div><h3>Soberanía</h3><p>El dato se queda en casa de quien lo custodia. Decide quién accede, para qué y durante cuánto tiempo.</p></div>
+    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="m16 16 3-8 3 8c-.9.6-1.9 1-3 1s-2.1-.4-3-1zM2 16l3-8 3 8c-.9.6-1.9 1-3 1s-2.1-.4-3-1zM7 21h10M12 3v18"/></svg></div><h3>Contratos ODRL</h3><p>Las condiciones de uso se escriben de forma que una máquina las aplica. Sin contrato, no hay acceso.</p></div>
+    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M12 2a10 10 0 1 0 10 10"/><path d="m9 12 2 2 4-4"/></svg></div><h3>Confianza Gaia-X</h3><p>Cada organización se identifica con credenciales verificables emitidas por servicios de confianza.</p></div>
+    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><rect x="4" y="4" width="16" height="16" rx="2"/><path d="M9 9h6v6H9z"/></svg></div><h3>IA sin mover datos</h3><p>Los modelos se entrenan donde está el dato (aprendizaje federado y cómputo confidencial).</p></div>
+  </div>
+</div></section>
+
+<section class="soft" id="tecnologia"><div class="wrap">
+  <div class="head"><div class="eyebrow dk">Cómo funciona</div><h2>De la fuente al resultado en seis pasos</h2></div>
+  <div class="flow">
+    <div class="step"><div class="c">1</div><b>Conectar</b><span>conector en el nodo de cada miembro</span></div>
+    <div class="step"><div class="c">2</div><b>Normalizar</b><span>FHIR, DICOM, OMOP u otros modelos sectoriales</span></div>
+    <div class="step"><div class="c">3</div><b>Publicar</b><span>oferta en el catálogo (DCAT, HealthDCAT-AP)</span></div>
+    <div class="step"><div class="c">4</div><b>Contratar</b><span>negociación con política ODRL</span></div>
+    <div class="step"><div class="c">5</div><b>Calcular</b><span>el algoritmo va al dato</span></div>
+    <div class="step"><div class="c">6</div><b>Auditar</b><span>quién, cuándo, qué y con qué contrato</span></div>
+  </div>
+  <div class="grid2" style="margin-top:34px">
+    <div class="fam" style="background:#EEF2F7"><h3>Familia «Web 2»</h3><div class="sub" style="color:#1F4E79">Eclipse EDC · Tractus-X</div>
+      <ul><li><b>Dataspace Protocol</b><span>catálogo, negociación y transferencia</span></li><li><b>Identity Hub</b><span>credenciales verificables de las organizaciones</span></li><li><b>Despliegue en Kubernetes</b><span>Helm y Terraform, en cualquier nube o en local</span></li></ul></div>
+    <div class="fam" style="background:#F6EED3"><h3>Familia «Web 3»</h3><div class="sub" style="color:#8A6D0B">Pontus-X · Gaia-X</div>
+      <ul><li><b>Cómputo junto al dato</b><span>el algoritmo viaja, el dato se queda</span></li><li><b>Registro distribuido</b><span>trazabilidad de cada acceso</span></li><li><b>Monetización trazable</b><span>pago por uso del dato</span></li></ul></div>
+  </div>
+</div></section>
+
+<section id="experiencia"><div class="wrap">
+  <div class="head"><div class="eyebrow dk">Experiencia</div><h2>Probado en tres espacios de datos reales</h2><p>El equipo de Software in a Box ha participado en el desarrollo tecnológico de tres espacios de datos cofinanciados por la SEDIA entre 2024 y 2026.</p></div>
+  <div class="grid3">
+    <div class="card"><div class="num">SALUD</div><h3>Global Data Care</h3><p>Espacio de datos sanitario sobre Pontus-X y Gaia-X, con trabajo de cumplimiento para la Lista de Confianza del programa español de espacios de datos.</p></div>
+    <div class="card"><div class="num">COMPRAS</div><h3>PROCUREDATA</h3><p>Espacio de datos de gestión de compras con conectores Eclipse e integración con sistemas ERP existentes.</p></div>
+    <div class="card"><div class="num">ECONOMÍA CIRCULAR</div><h3>EcoDataNet</h3><p>Trazabilidad de residuos y economía circular con políticas de uso y credenciales verificables.</p></div>
+  </div>
+  <div class="chips"><span class="chip">RGPD</span><span class="chip">EHDS (Reglamento UE 2025/327)</span><span class="chip">Data Act</span><span class="chip">Data Governance Act</span><span class="chip">Reglamento de IA</span><span class="chip">NIS2 · ENS</span><span class="chip">Gaia-X Trust Framework</span></div>
+</div></section>
+
+<section class="dental" id="salud"><div class="wrap">
+  <div class="head"><div class="eyebrow">Primer vertical</div><h2>Espacio de datos para clínicas dentales con IA sobre Microsoft Azure</h2><p>Una red de clínicas que entrena y mejora la IA de diagnóstico sin que los datos de los pacientes salgan de cada clínica. Microsoft dentro del nodo; estándares abiertos en la frontera.</p></div>
+  <div class="dgrid">
+    <div class="dcard"><h3>Qué incluye</h3><ul>
+      <li>Nodo de datos por clínica en Azure: historia clínica en FHIR e imagen en DICOM, seudonimizadas en origen.</li>
+      <li>IA de apoyo al diagnóstico: caries interproximal y pérdida ósea periodontal en radiografía, con validación del dentista.</li>
+      <li>Asistente de expediente: resumen de la historia y borrador de plan de tratamiento revisable.</li>
+      <li>Conector Eclipse EDC, catálogo HealthDCAT-AP y contratos ODRL entre miembros.</li>
+      <li>Entrenamiento federado entre clínicas con cómputo confidencial.</li></ul>
+      <div class="kpi"><div><b>3 + 3</b><span>meses de MVP y piloto</span></div><div><b>3–5</b><span>clínicas en el piloto</span></div><div><b>0</b><span>datos clínicos fuera de la clínica</span></div></div></div>
+    <div class="dcard"><h3>Por qué ahora</h3><div class="tl">
+      <div><b>26/03/2027</b><span>Aplicación general del EHDS</span></div>
+      <div><b>02/08/2028</b><span>Reglamento de IA para la IA en productos sanitarios</span></div>
+      <div><b>26/03/2029</b><span>Uso secundario de datos de salud con permiso</span></div>
+      <div><b>2031</b><span>Imagen médica en MyHealth@EU</span></div></div></div>
+  </div>
+</div></section>
+
+<section class="cta" id="contacto"><div class="wrap">
+  <h2>¿Quiere crear o unirse a un espacio de datos?</h2>
+  <p>Le ayudamos a definir las reglas, desplegar los nodos y poner la IA a trabajar sobre datos que siguen siendo suyos.</p>
+  <div class="ctas" style="justify-content:center"><a class="btn btn-gold" href="mailto:emilio.mulet@softwareinabox.eu?subject=Espacios%20de%20datos%20%C2%B7%20Solicitud%20de%20reuni%C3%B3n">emilio.mulet@softwareinabox.eu</a><a class="btn btn-line" href="tel:+34601398868">+34 601 398 868</a></div>
+</div></section>
+</main>
+
+<footer><div class="wrap ft">
+  <div>© 2026 Software in a Box · Espacios de datos federados</div>
+  <div><a href="https://www.softwareinabox.eu/">Software in a Box</a><a href="https://cognitiv.softwareinabox.eu/">COGNITIV</a><a href="https://argos.softwareinabox.eu/">ARGOS</a></div>
+</div></footer>
+</body>
+</html>

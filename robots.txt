@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://datos.softwareinabox.eu/sitemap.xml
