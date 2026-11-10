@@ -14,3 +14,4 @@ El equipo de Software in a Box ha participado en el desarrollo tecnológico de t
 ## Idiomas / Languages
 - [Español](https://datos.softwareinabox.eu/)
 - [English](https://datos.softwareinabox.eu/en/)
+- [Français](https://datos.softwareinabox.eu/fr/)
