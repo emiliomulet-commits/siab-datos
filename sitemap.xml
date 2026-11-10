@@ -10,6 +10,8 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://datos.softwareinabox.eu/fr/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://datos.softwareinabox.eu/de/"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://datos.softwareinabox.eu/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/"/>
   </url>
   <url>
@@ -22,6 +24,8 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://datos.softwareinabox.eu/fr/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://datos.softwareinabox.eu/de/"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://datos.softwareinabox.eu/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/"/>
   </url>
   <url>
@@ -34,6 +38,8 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://datos.softwareinabox.eu/fr/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://datos.softwareinabox.eu/de/"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://datos.softwareinabox.eu/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/"/>
   </url>
   <url>
@@ -46,6 +52,8 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://datos.softwareinabox.eu/fr/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://datos.softwareinabox.eu/de/"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://datos.softwareinabox.eu/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/"/>
   </url>
   <url>
@@ -58,6 +66,36 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://datos.softwareinabox.eu/fr/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://datos.softwareinabox.eu/de/"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://datos.softwareinabox.eu/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/"/>
+  </url>
+  <url>
+    <loc>https://datos.softwareinabox.eu/pt/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://datos.softwareinabox.eu/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://datos.softwareinabox.eu/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://datos.softwareinabox.eu/de/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://datos.softwareinabox.eu/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/"/>
+  </url>
+  <url>
+    <loc>https://datos.softwareinabox.eu/it/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://datos.softwareinabox.eu/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://datos.softwareinabox.eu/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://datos.softwareinabox.eu/de/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://datos.softwareinabox.eu/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/"/>
   </url>
 </urlset>
