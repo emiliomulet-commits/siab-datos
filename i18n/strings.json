@@ -1054,8 +1054,8 @@
   ]
  },
  {
-  "id": "ac3003d8e9",
-  "src": "<span>Ir a:</span><a href=\"#ram\">IDS-RAM</a><a href=\"#dsp\">Dataspace Protocol</a><a href=\"#rulebook\">Rulebook</a><a href=\"#dsbok\">Body of Knowledge</a><a href=\"#cert\">Certification</a><a href=\"#investigacion\">Investigación</a><a href=\"#normas\">Normas</a>",
+  "id": "bff365e1ee",
+  "src": "<span>Ir a:</span><a href=\"#ram\">IDS-RAM</a><a href=\"#dsp\">Dataspace Protocol</a><a href=\"#rulebook\">Rulebook</a><a href=\"#dsbok\">Body of Knowledge</a><a href=\"#cert\">Certification</a><a href=\"#espana\">En España</a><a href=\"#investigacion\">Investigación</a><a href=\"#normas\">Normas</a>",
   "kind": "html",
   "pages": [
    "recursos.html"
@@ -1128,6 +1128,30 @@
  {
   "id": "8b99bcc0cb",
   "src": "Técnico",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "0094338860",
+  "src": "Idioma",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "02e4230515",
+  "src": "Todos los idiomas",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "efbb596f26",
+  "src": "En español",
   "kind": "html",
   "pages": [
    "recursos.html"
@@ -2286,6 +2310,734 @@
   ]
  },
  {
+  "id": "9debabbaa0",
+  "src": "ES",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "0a7140e729",
+  "src": "En español · España",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "9bf2057bfb",
+  "src": "Espacios de datos en España: recursos en español",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "4bbf10afe4",
+  "src": "España aplica estos estándares a través del Plan de Impulso de los Espacios de Datos Sectoriales, dotado con 500 millones de euros. La SEDIA lo dirige, el Centro de Referencia de Espacios de Datos (CRED) lo acompaña con guías y marcos técnicos, Red.es gestiona el Kit Espacios de Datos y UNE ha publicado la primera norma española, la UNE 0087:2025. Todos los recursos de esta sección están en español.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "8b712913e7",
+  "src": "Plan de Impulso de los Espacios de Datos Sectoriales",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "4109c8e00e",
+  "src": "SEDIA · Dirección General del Dato · 2024–2026",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "a70ec5e1a4",
+  "src": "El plan nacional: 500 millones de euros, seis ejes de acción y once iniciativas para desplegar espacios de datos en todos los sectores.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "685c3d6e8f",
+  "src": "Plan de Impulso de los Espacios de Datos Sectoriales: memoria de actuación",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "5d6f201285",
+  "src": "SEDIA · 2026-06 · PDF",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "c7a2dc3a82",
+  "src": "Balance del plan a junio de 2026: gobernanza, papel del CRED y resultados del despliegue.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "31285e597f",
+  "src": "Programa Espacios de Datos Sectoriales (convocatorias de ayudas)",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "6f14145c37",
+  "src": "SEDIA · Portal de ayudas",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "16e2eb0441",
+  "src": "Las convocatorias de demostradores, casos de uso y productos para espacios de datos, con sus resoluciones.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "5d6a5499da",
+  "src": "Centro de Referencia de Espacios de Datos (CRED)",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "4561201725",
+  "src": "CRED · Dirección General del Dato",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "1797c88617",
+  "src": "El punto de referencia nacional: guías, marcos técnicos, Lista de Confianza y apoyo al Kit Espacios de Datos.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "56e5b4ec8d",
+  "src": "Guía del Participante de los Espacios de Datos",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "4f595bea65",
+  "src": "CRED · PDF",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "51671d2ca2",
+  "src": "Los pasos para unirse a un espacio de datos: decidir, adherirse, conectarse técnicamente y empezar a operar.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "211675463d",
+  "src": "Guía del Promotor de los Espacios de Datos",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "14e4a1d479",
+  "src": "El ciclo de vida de un espacio de datos, de la propuesta de valor a la gestión, para quien lo impulsa.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "c1a9806293",
+  "src": "Guía de Gobernanza de Espacios de Datos",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "f116d4d691",
+  "src": "CRED · 2025-12 · PDF",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "3600ec50ba",
+  "src": "Cómo fijar reglas claras, trazables y auditables y organizar la autoridad de gobierno del espacio de datos.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "8fb8cb6999",
+  "src": "Marco de Interoperabilidad Técnico",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "81b60a11e4",
+  "src": "La base técnica común para que los espacios de datos y sus servicios habilitadores interoperen, alineada con UNE 0087.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "caf07f5813",
+  "src": "Radiografía de tecnologías en proyectos de espacios de datos",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "469ad9c8b3",
+  "src": "CRED · 2026-05 · PDF",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "e875e9e605",
+  "src": "Qué tecnología usan los proyectos españoles: predominan el conector Eclipse (EDC), Gaia-X, DCAT-AP y ODRL.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "ef1301d907",
+  "src": "Kit Espacios de Datos: ¿cuál es la finalidad de estas ayudas y quiénes pueden solicitarlas?",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "402eca6cc5",
+  "src": "La Moncloa · 2026-01",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "90dba9a6a3",
+  "src": "Resumen oficial del programa de 60 millones gestionado por Red.es: objetivo, cuantías y espacios de datos elegibles.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "4015326181",
+  "src": "Kit Espacios de Datos",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "c61bed1d81",
+  "src": "Red.es · Acelera pyme",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "65dc4a202a",
+  "src": "La página oficial del programa de ayudas en Red.es.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "9767648daa",
+  "src": "Guía inicial para solicitar la ayuda del Kit Espacios de Datos",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "b2c9afcf67",
+  "src": "Los primeros pasos: elegir el espacio de datos, adherirse, conectarse y presentar la solicitud en Red.es.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "cc004fc298",
+  "src": "El Gobierno pone en marcha la Lista de Confianza de Espacios de Datos",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "097f6b4b90",
+  "src": "SEDIA · 2026-01",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "240cc910d4",
+  "src": "Registro oficial y voluntario de espacios de datos confiables, basado en UNE 0087, que amplía los espacios elegibles para el Kit.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "280079b10c",
+  "src": "Norma",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "c2487cca6c",
+  "src": "Especificación UNE 0087:2025 «Definición y caracterización de los espacios de datos»",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "264d4ce0d1",
+  "src": "UNE · CTN-UNE 71/SC 43 · 2025-07",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "c8a98a1acd",
+  "src": "La primera norma española sobre espacios de datos: definición y características de interoperabilidad, gobernanza y valor.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "9b4b1a208f",
+  "src": "Guía de verificación de conformidad con la especificación UNE 0087:2025",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "99be167ebb",
+  "src": "CRED · 2025-11 · PDF",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "b6e8e64a05",
+  "src": "El mecanismo para comprobar si una iniciativa puede considerarse espacio de datos conforme a UNE 0087.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "2ae32b3b54",
+  "src": "Los espacios de datos ya tienen su hoja de ruta: nace la primera especificación UNE",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "72f3a338e4",
+  "src": "datos.gob.es · 2025-07",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "3d0f8a26c6",
+  "src": "Qué aporta UNE 0087 y cómo la impulsaron el CRED y UNE.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "06ee78b6ef",
+  "src": "Espacios de datos: beneficios, desafíos y el impulso normativo de la UNE 0087:2025",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "9738a9d25b",
+  "src": "Legal Today · 2025-09",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "55c1c1e1a1",
+  "src": "Lectura jurídica de la norma y de su encaje con la serie UNE 0077-0081 de gobierno del dato.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "401a58eb19",
+  "src": "Cómo evaluar y diseñar casos de uso para espacios de datos",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "6383904f6b",
+  "src": "datos.gob.es · Oficina del Dato · 2023",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "6b94ca9676",
+  "src": "Las dos guías de la Oficina del Dato: evaluar la viabilidad de un caso de uso y diseñarlo.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "8b8107abd8",
+  "src": "Gaia-X España",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "30a102de87",
+  "src": "Hub nacional de Gaia-X",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "34c6a05b6a",
+  "src": "La asociación que actúa como hub español de Gaia-X, con grupos de trabajo sectoriales (turismo, salud, movilidad, agroalimentario…).",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "79eb652f6f",
+  "src": "Desmitificando Gaia-X",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "cfec26f2b8",
+  "src": "datos.gob.es · Gaia-X Hub · PDF",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "f4eed1bf9c",
+  "src": "Presentación sobre la misión de Gaia-X, sus fundamentos tecnológicos y cómo aplicar su marco a los espacios de datos en España.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "a3c305b832",
+  "src": "Webinar CRED (parte 2): lanzamiento del Kit Espacios de Datos",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "8b21c0b793",
+  "src": "YouTube · CRED · 2025-07",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "05bd0ac591",
+  "src": "Presentación del Kit Espacios de Datos y de la especificación UNE 0087 (17 de julio de 2025).",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "1c50307921",
+  "src": "Kit Espacios de Datos: compartir datos, construir futuro",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "9c0c5357ad",
+  "src": "YouTube · CRED · 2026",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "59b8ea0322",
+  "src": "Vídeo breve de presentación del programa de ayudas.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "7b5bb7b5d5",
+  "src": "Taller práctico Kit Espacios de Datos",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "ccae5fae01",
+  "src": "YouTube · CRED · 2025",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "0e53200839",
+  "src": "Cómo solicitar la ayuda paso a paso y qué documentación hace falta.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "d026412eda",
+  "src": "Taller práctico Kit Espacios de Datos – Administraciones públicas",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "962407216f",
+  "src": "YouTube · CRED · 2025-11",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "5358956d21",
+  "src": "La versión del taller pensada para las administraciones públicas.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "e62a570261",
+  "src": "Webinar Soluciones para Espacios de Datos",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "531beee3b9",
+  "src": "Seis proyectos del Plan de Impulso que ofrecen soluciones para que las empresas se incorporen a espacios de datos.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "12caf1e29a",
+  "src": "¿Qué es un espacio de datos? Más que datos: ecosistemas inteligentes y soberanos",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "b0c5e5ce80",
+  "src": "YouTube · La Ecuación Digital · Gaia-X Summit 2024",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "86bf4bff22",
+  "src": "Francisca Rubio, gerente de Gaia-X España, explica qué es realmente un espacio de datos.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "63b9af0ba7",
+  "src": "Gaia-X y espacios de datos: visión estratégica y aplicación práctica",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "4657d617aa",
+  "src": "YouTube · APTE · 2026-05",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "7bc190b7ee",
+  "src": "Gaia-X y GMV sobre el papel de los espacios de datos en un ecosistema europeo de datos seguro y soberano.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "323d5d0cfd",
+  "src": "Iniciación a los espacios de datos (Gaia-X España)",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "6ded5ea17c",
+  "src": "YouTube · EDIH DATAlife · 2023",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "ae4d5f9431",
+  "src": "Objetivos, estructura y propuesta de valor de Gaia-X, por Francisca Rubio.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "eb8785f3b7",
+  "src": "Webinar AMETIC: espacios de datos compartidos, retos de seguridad",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "a2202388b8",
+  "src": "YouTube · AMETIC · 2024",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "bbe2a9036f",
+  "src": "Cómo garantizar un intercambio seguro entre proveedores y consumidores de datos.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "71fdc2b03b",
+  "src": "Espacios de datos: un nuevo paradigma para el intercambio de información",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "b215e79258",
+  "src": "YouTube · Proyecto EDAAn · 2025-07",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "14103a1162",
+  "src": "Webinar del proyecto EDAAn, espacio de datos agroalimentario de Andalucía, con la participación de Gaia-X España.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
   "id": "19a0db9962",
   "src": "Artículos científicos y libros en acceso abierto",
   "kind": "html",
@@ -2614,14 +3366,6 @@
   ]
  },
  {
-  "id": "280079b10c",
-  "src": "Norma",
-  "kind": "html",
-  "pages": [
-   "recursos.html"
-  ]
- },
- {
   "id": "518c362832",
   "src": "EN 18235-1:2026 Trusted data transactions",
   "kind": "html",
@@ -2743,8 +3487,8 @@
   ]
  },
  {
-  "id": "651042c05d",
-  "src": "Más de 50 recursos sobre la base técnica y de gobierno de los espacios de datos, de la arquitectura de referencia a las normas ISO y CEN.",
+  "id": "79995b98b0",
+  "src": "Más de 80 recursos sobre la base técnica y de gobierno de los espacios de datos, de la arquitectura de referencia a las normas ISO y CEN.",
   "kind": "attr",
   "pages": [
    "recursos.html"
