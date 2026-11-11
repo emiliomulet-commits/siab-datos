@@ -82,6 +82,19 @@ footer{background:#081A33;color:#AAB7C8;padding:34px 0;font-size:14.5px}.ft{disp
 .ft-legal{display:flex;gap:18px;flex-wrap:wrap;margin-top:14px;font-size:13px}.ft-legal a{color:#C9D3E0!important}
 @media(max-width:640px){.cform{grid-template-columns:1fr}}
 :focus-visible{outline:3px solid #C9A227;outline-offset:2px}
+.res{display:grid;grid-template-columns:1.15fr .85fr;gap:24px;align-items:stretch}
+.rcard{border:1px solid var(--line);border-radius:16px;background:#fff;box-shadow:0 4px 18px rgba(11,37,69,.05);overflow:hidden;display:flex;flex-direction:column}
+.rcard .rb{padding:20px 22px 22px;display:flex;flex-direction:column;gap:8px;flex:1}.rcard h3{font-size:19px;line-height:1.3}.rcard p{font-size:15.5px;color:var(--mute)}
+.rtag{font-family:'Montserrat';font-weight:800;font-size:12.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--teal)}
+.rcard .more{margin-top:auto;font-weight:700;color:var(--dteal);text-decoration:none}.rcard .more:hover{text-decoration:underline}
+.rart{background:linear-gradient(160deg,#0B2545,#0F4D55);height:150px;display:flex;align-items:flex-end;padding:18px 22px}
+.rart span{font-family:'Montserrat';font-weight:800;color:#fff;font-size:20px;line-height:1.2}.rart em{font-style:normal;color:var(--gold)}
+.yt{position:relative;aspect-ratio:16/9;background:radial-gradient(600px 300px at 80% 0%,#1B998B66,transparent 60%),linear-gradient(160deg,#0B2545,#0F4D55)}
+.yt iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.yt-play{position:absolute;inset:0;width:100%;border:0;background:none;cursor:pointer;color:#fff;font:inherit;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;padding:20px;text-align:center}
+.yt-ic{flex:none;width:66px;height:66px;border-radius:50%;background:var(--gold);display:flex;align-items:center;justify-content:center;transition:transform .2s}.yt-play:hover .yt-ic{transform:scale(1.07)}
+.yt-t b{display:block;font-family:'Montserrat';font-size:19px;line-height:1.25}.yt-t small{display:block;color:#C9D3E0;font-size:13.5px;margin-top:6px}
+@media(max-width:980px){.res{grid-template-columns:1fr}}
 </style>
 <link rel="alternate" type="text/plain" title="llms.txt" href="https://datos.softwareinabox.eu/llms.txt">
 <!-- I18N:BEGIN -->
@@ -100,7 +113,7 @@ footer{background:#081A33;color:#AAB7C8;padding:34px 0;font-size:14.5px}.ft{disp
   <a class="brand" href="https://www.softwareinabox.eu/" aria-label="Software in a Box">
     <svg width="34" height="34" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#0F4D55"/><circle cx="32" cy="32" r="8" fill="none" stroke="#C9A227" stroke-width="4"/><path d="M14 14l12 12M50 14 38 26M14 50l12-12M50 50 38 38" stroke="#C9A227" stroke-width="4"/></svg>
     <span><b>Espacios de datos</b><small>de Software in a Box</small></span></a>
-  <nav class="menu" aria-label="Principal"><a href="#que-es">Qué es</a><a href="#tecnologia">Tecnología</a><a href="#experiencia">Experiencia</a><a href="#salud">Salud dental</a><a class="btn btn-teal" href="#contacto">Hablemos</a></nav>
+  <nav class="menu" aria-label="Principal"><a href="#que-es">Qué es</a><a href="#tecnologia">Tecnología</a><a href="#experiencia">Experiencia</a><a href="#salud">Salud dental</a><a href="#recursos">Artículos y vídeos</a><a class="btn btn-teal" href="#contacto">Hablemos</a></nav>
 </div></header>
 
 <main>
@@ -181,6 +194,16 @@ footer{background:#081A33;color:#AAB7C8;padding:34px 0;font-size:14.5px}.ft{disp
   </div>
 </div></section>
 
+<section class="soft" id="recursos"><div class="wrap">
+  <div class="head"><div class="eyebrow dk">Artículos y vídeos</div><h2>Para entender hacia dónde van los espacios de datos</h2><p>Seleccionamos vídeos y escribimos artículos sobre la regulación, los estándares y la tecnología que dan forma a los espacios de datos europeos.</p></div>
+  <div class="res">
+    <div class="rcard"><div class="yt"><button class="yt-play" type="button" data-yt="r1-WElzW9vY" aria-label="Reproducir el vídeo del seminario web de StandICT_eu"><span class="yt-ic"><svg width="28" height="28" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z" fill="#0B2545"/></svg></span><span class="yt-t"><b>Geopolitics of ICT Standardisation</b><small>StandICT_eu · seminario web · 1 h 36 min · en inglés</small></span></button></div>
+      <div class="rb"><div class="rtag">Vídeo</div><h3>La geopolítica de la estandarización de datos</h3><p>La Comisión Europea, CEN/CENELEC JTC 25, ETSI TC DATA, IDSA y el DSSC explican la Ley de Datos, las transacciones de datos confiables y los estándares que deberá hablar todo espacio de datos.</p><p style="font-size:13px">Se carga desde YouTube en modo de privacidad mejorada al pulsar. <a href="https://www.youtube.com/watch?v=r1-WElzW9vY" target="_blank" rel="noopener">Ver en YouTube</a></p></div></div>
+    <a class="rcard" href="/articulos/geopolitica-estandarizacion-datos" style="text-decoration:none;color:inherit"><div class="rart"><span>Estándares de datos: <em>quién fija las reglas</em></span></div>
+      <div class="rb"><div class="rtag">Artículo · 9 min</div><h3>La geopolítica de los estándares de datos: qué se decide en Europa y por qué importa</h3><p>Data Act y Digital Omnibus, el producto de datos, ODRL, credenciales verificables y DCAT, y si Europa podrá exportar su modelo. Nuestro resumen comentado del seminario.</p><span class="more">Leer el artículo →</span></div></a>
+  </div>
+</div></section>
+
 <section class="cta" id="contacto"><div class="wrap">
   <h2>¿Quiere crear o unirse a un espacio de datos?</h2>
   <p>Le ayudamos a definir las reglas, desplegar los nodos y poner la IA a trabajar sobre datos que siguen siendo suyos.</p>
@@ -204,6 +227,9 @@ footer{background:#081A33;color:#AAB7C8;padding:34px 0;font-size:14.5px}.ft{disp
   <div>© 2026 Software in a Box · Espacios de datos federados</div>
   <div><a href="https://www.softwareinabox.eu/">Software in a Box</a><a href="https://cognitiv.softwareinabox.eu/">COGNITIV</a><a href="https://argos.softwareinabox.eu/">ARGOS</a></div>
 </div><div class="wrap ft-legal"><a href="https://www.softwareinabox.eu/aviso-legal.html">Aviso legal</a><a href="https://www.softwareinabox.eu/privacidad.html">Privacidad</a><a href="https://www.softwareinabox.eu/cookies.html">Cookies</a></div></footer>
+<script data-i18n="skip">
+document.querySelectorAll('.yt-play').forEach(function(b){b.addEventListener('click',function(){var f=document.createElement('iframe');f.src='https://www.youtube-nocookie.com/embed/'+b.getAttribute('data-yt')+'?autoplay=1&rel=0';f.title=b.getAttribute('aria-label');f.setAttribute('allow','autoplay; encrypted-media; picture-in-picture; fullscreen');f.setAttribute('allowfullscreen','');b.parentNode.replaceChild(f,b);});});
+</script>
 <!-- I18N-SW:BEGIN --><style>.i18n-sw{position:fixed;left:16px;bottom:16px;z-index:2147483000;font:600 14px/1.2 system-ui,-apple-system,'Segoe UI',sans-serif}.i18n-sw details{background:#0B2545;color:#fff;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.25);overflow:hidden}.i18n-sw summary{list-style:none;cursor:pointer;padding:10px 14px;display:flex;align-items:center;gap:8px;user-select:none}.i18n-sw summary::-webkit-details-marker{display:none}.i18n-sw summary:focus-visible,.i18n-sw a:focus-visible{outline:3px solid #C9A227;outline-offset:-3px}.i18n-sw ul{list-style:none;margin:0;padding:4px 0 8px;border-top:1px solid rgba(255,255,255,.15)}.i18n-sw a{display:block;padding:7px 16px;color:#C9D3E0;text-decoration:none;font-weight:500}.i18n-sw a:hover{color:#fff;background:rgba(255,255,255,.08)}.i18n-sw a[aria-current]{color:#C9A227;font-weight:700}@media print{.i18n-sw{display:none}}</style><nav class="i18n-sw" aria-label="Idioma"><details><summary><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15 15 0 0 1 0 20M12 2a15 15 0 0 0 0 20"/></svg>ES</summary><ul><li><a href="https://datos.softwareinabox.eu/" hreflang="es" lang="es" aria-current="true">Español</a></li><li><a href="https://datos.softwareinabox.eu/en/" hreflang="en" lang="en">English</a></li><li><a href="https://datos.softwareinabox.eu/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="https://datos.softwareinabox.eu/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="https://datos.softwareinabox.eu/nl/" hreflang="nl" lang="nl">Nederlands</a></li><li><a href="https://datos.softwareinabox.eu/pt/" hreflang="pt" lang="pt">Português</a></li><li><a href="https://datos.softwareinabox.eu/it/" hreflang="it" lang="it">Italiano</a></li></ul></details></nav><!-- I18N-SW:END -->
 </body>
 </html>

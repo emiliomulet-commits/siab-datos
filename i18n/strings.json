@@ -12,12 +12,13 @@
   "src": "<b>Espacios de datos</b><small>de Software in a Box</small>",
   "kind": "html",
   "pages": [
-   "index.html"
+   "index.html",
+   "articulos/geopolitica-estandarizacion-datos.html"
   ]
  },
  {
-  "id": "bd9a5e5bd1",
-  "src": "<a href=\"#que-es\">Qué es</a><a href=\"#tecnologia\">Tecnología</a><a href=\"#experiencia\">Experiencia</a><a href=\"#salud\">Salud dental</a><a class=\"btn btn-teal\" href=\"#contacto\">Hablemos</a>",
+  "id": "cfa650ff7a",
+  "src": "<a href=\"#que-es\">Qué es</a><a href=\"#tecnologia\">Tecnología</a><a href=\"#experiencia\">Experiencia</a><a href=\"#salud\">Salud dental</a><a href=\"#recursos\">Artículos y vídeos</a><a class=\"btn btn-teal\" href=\"#contacto\">Hablemos</a>",
   "kind": "html",
   "pages": [
    "index.html"
@@ -656,6 +657,113 @@
   ]
  },
  {
+  "id": "95b0ffc7d6",
+  "src": "Artículos y vídeos",
+  "kind": "html",
+  "pages": [
+   "index.html",
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "cde813bc4c",
+  "src": "Para entender hacia dónde van los espacios de datos",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "10c518355a",
+  "src": "Seleccionamos vídeos y escribimos artículos sobre la regulación, los estándares y la tecnología que dan forma a los espacios de datos europeos.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "e242cb4639",
+  "src": "<b>Geopolitics of ICT Standardisation</b><small>StandICT_eu · seminario web · 1 h 36 min · en inglés</small>",
+  "kind": "html",
+  "pages": [
+   "index.html",
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "03e7e13eeb",
+  "src": "Vídeo",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "90950c0e6a",
+  "src": "La geopolítica de la estandarización de datos",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "ae076c4e97",
+  "src": "La Comisión Europea, CEN/CENELEC JTC 25, ETSI TC DATA, IDSA y el DSSC explican la Ley de Datos, las transacciones de datos confiables y los estándares que deberá hablar todo espacio de datos.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "4facd9b0a1",
+  "src": "Se carga desde YouTube en modo de privacidad mejorada al pulsar. <a href=\"https://www.youtube.com/watch?v=r1-WElzW9vY\" target=\"_blank\" rel=\"noopener\">Ver en YouTube</a>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "f3c9c45e86",
+  "src": "<span>Estándares de datos: <em>quién fija las reglas</em></span>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "8268f781d7",
+  "src": "Artículo · 9 min",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "850a13d0ed",
+  "src": "La geopolítica de los estándares de datos: qué se decide en Europa y por qué importa",
+  "kind": "html",
+  "pages": [
+   "index.html",
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "f9bb3e4b56",
+  "src": "Data Act y Digital Omnibus, el producto de datos, ODRL, credenciales verificables y DCAT, y si Europa podrá exportar su modelo. Nuestro resumen comentado del seminario.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "d3867f9b19",
+  "src": "Leer el artículo →",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
   "id": "58e07ddbe0",
   "src": "¿Quiere crear o unirse a un espacio de datos?",
   "kind": "html",
@@ -732,7 +840,8 @@
   "src": "© 2026 Software in a Box · Espacios de datos federados",
   "kind": "html",
   "pages": [
-   "index.html"
+   "index.html",
+   "articulos/geopolitica-estandarizacion-datos.html"
   ]
  },
  {
@@ -740,7 +849,8 @@
   "src": "<a href=\"https://www.softwareinabox.eu/\">Software in a Box</a><a href=\"https://cognitiv.softwareinabox.eu/\">COGNITIV</a><a href=\"https://argos.softwareinabox.eu/\">ARGOS</a>",
   "kind": "html",
   "pages": [
-   "index.html"
+   "index.html",
+   "articulos/geopolitica-estandarizacion-datos.html"
   ]
  },
  {
@@ -748,7 +858,8 @@
   "src": "<a href=\"https://www.softwareinabox.eu/aviso-legal.html\">Aviso legal</a><a href=\"https://www.softwareinabox.eu/privacidad.html\">Privacidad</a><a href=\"https://www.softwareinabox.eu/cookies.html\">Cookies</a>",
   "kind": "html",
   "pages": [
-   "index.html"
+   "index.html",
+   "articulos/geopolitica-estandarizacion-datos.html"
   ]
  },
  {
@@ -788,7 +899,8 @@
   "src": "Software in a Box",
   "kind": "jsonld",
   "pages": [
-   "index.html"
+   "index.html",
+   "articulos/geopolitica-estandarizacion-datos.html"
   ]
  },
  {
@@ -804,7 +916,8 @@
   "src": "Espacios de datos",
   "kind": "jsonld",
   "pages": [
-   "index.html"
+   "index.html",
+   "articulos/geopolitica-estandarizacion-datos.html"
   ]
  },
  {
@@ -820,7 +933,8 @@
   "src": "Principal",
   "kind": "attr",
   "pages": [
-   "index.html"
+   "index.html",
+   "articulos/geopolitica-estandarizacion-datos.html"
   ]
  },
  {
@@ -829,6 +943,15 @@
   "kind": "attr",
   "pages": [
    "index.html"
+  ]
+ },
+ {
+  "id": "5bbdb45e42",
+  "src": "Reproducir el vídeo del seminario web de StandICT_eu",
+  "kind": "attr",
+  "pages": [
+   "index.html",
+   "articulos/geopolitica-estandarizacion-datos.html"
   ]
  },
  {
@@ -853,6 +976,454 @@
   "kind": "attr",
   "pages": [
    "index.html"
+  ]
+ },
+ {
+  "id": "6cf4775250",
+  "src": "Geopolítica de la estandarización de datos en Europa | Software in a Box",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "db3a629161",
+  "src": "<a href=\"/#que-es\">Qué es</a><a href=\"/#tecnologia\">Tecnología</a><a href=\"/#recursos\">Artículos y vídeos</a><a class=\"btn btn-teal\" href=\"/#contacto\">Hablemos</a>",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "f15e0848d7",
+  "src": "<a href=\"/\">Espacios de datos</a> › <a href=\"/#recursos\">Artículos y vídeos</a>",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "f4efe401d9",
+  "src": "Artículo · Estandarización",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "ef065a3be9",
+  "src": "Quien fija los estándares fija las reglas del mercado. Resumimos y comentamos el seminario web de StandICT_eu en el que la Comisión Europea, CEN/CENELEC, ETSI, IDSA y el DSSC explicaron cómo se está construyendo la base técnica de los espacios de datos europeos.",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "362bbd2420",
+  "src": "Software in a Box · 11 de noviembre de 2026 · 9 min de lectura",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "ec3e8932fe",
+  "src": "Al pulsar, el vídeo se carga desde YouTube en modo de privacidad mejorada. También puede <a href=\"https://www.youtube.com/watch?v=r1-WElzW9vY\" target=\"_blank\" rel=\"noopener\">verlo en YouTube</a>.",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "8e4476846d",
+  "src": "Por qué los estándares de datos son geopolítica",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "f6eac98797",
+  "src": "Knut Blind, coordinador de StandICT_eu, abrió la sesión con una idea sencilla: los estándares de datos ya no son un asunto solo técnico. De ellos depende que exista un mercado único digital de datos, que Europa conserve su soberanía digital y que haya datos suficientes y fiables para entrenar y usar la inteligencia artificial.",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "653723a529",
+  "src": "El marco de la UE: de más datos a datos de calidad para la IA",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "62c467458f",
+  "src": "Camila Kawa · DG CONNECT, Comisión Europea",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "e19cdd8b1b",
+  "src": "La estrategia europea de datos de 2020 buscaba que hubiera más datos disponibles. Con la Estrategia de Unión de Datos el foco cambia: ahora se trata de desbloquear datos de alta calidad para entrenar y hacer funcionar sistemas de IA. La Comisión trabaja en tres frentes:",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "e4b0cce62b",
+  "src": "<b>Acceso a datos de calidad</b>: el problema no es solo el volumen, sino la calidad y la fiabilidad (herramientas de aseguramiento de calidad, datos sintéticos y estándares).",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "8307517ac6",
+  "src": "<b>Simplificación normativa</b>: la propuesta <i>Digital Omnibus</i> integraría en la Ley de Datos (<i>Data Act</i>) lo esencial de la Ley de Gobernanza de Datos, la Directiva de Datos Abiertos y el Reglamento de libre circulación de datos no personales. Se acompaña de cláusulas contractuales tipo y de un servicio de asistencia jurídica sobre la Ley de Datos.",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "7a8df4d686",
+  "src": "<b>Dimensión internacional</b>: proteger la soberanía de los datos europeos y, a la vez, conectar con ecosistemas de países afines.",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "eb1a88eec5",
+  "src": "Los espacios comunes europeos de datos son el puente entre la estrategia de datos y la de IA. Entre los más maduros citó el de imágenes de cáncer, lanzado en 2023, que conecta decenas de conjuntos de datos y aspira a superar los 60 millones de imágenes anotadas en 2027, además de los de genómica y lenguaje. Turismo, competencias, Pacto Verde, energía y agricultura llegan después.",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "08dc38893d",
+  "src": "Hay dos solicitudes de estandarización en curso: un marco de transacciones de datos confiables, que apoya el artículo 33 de la Ley de Datos, y otra sobre calidad de datos, con métricas cuantitativas como exhaustividad, precisión y cobertura.",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "0499ea7168",
+  "src": "Normas más rápidas: la revisión del Reglamento 1025/2012",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "ffc3fde66d",
+  "src": "Carlos Rodríguez · DG CONNECT, Comisión Europea",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "30cf47d481",
+  "src": "La Comisión ha propuesto modernizar el sistema europeo de normalización con tres objetivos: reducir los cerca de seis años que hoy tarda una norma armonizada, algo incompatible con el ritmo de la IA; facilitar la participación de las pymes y dar seguridad jurídica al acceso a las normas armonizadas; y reforzar la presencia europea en los organismos internacionales para que otras potencias no marquen solas el rumbo.",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "63d32ec881",
+  "src": "Transacciones de datos confiables y el «producto de datos»",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "badd525e76",
+  "src": "Sebastian Steinbuss · presidente de CEN/CENELEC JTC 25 «Data»",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "e9a62cdc34",
+  "src": "Es la parte más práctica del seminario. La norma de transacciones de datos confiables (<i>Trusted Data Transactions</i>) tiene tres partes: conceptos y terminología (publicada), requisitos de confianza (aprobada) e interoperabilidad (en la fase final para convertirse en norma armonizada). La confianza se basa en contrastar de forma automática las políticas que se exigen con las declaraciones verificables que presenta cada parte.",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "f63eeba213",
+  "src": "La norma distingue quién responde de una transacción y qué software actúa por cada uno (<a href=\"https://www.youtube.com/watch?v=r1-WElzW9vY&amp;t=1466s\" target=\"_blank\" rel=\"noopener\">ver la explicación en el minuto 24:26</a>):",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "8b8b1fe591",
+  "src": "<b>Roles responsables</b>: el titular de los derechos sobre los datos, que decide cómo y a quién se transfieren; el productor de datos (un sensor, un dispositivo, un sistema); el proveedor y el usuario de datos.",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "0f694c4604",
+  "src": "<b>Roles de apoyo</b>: intermediarios de datos y autoridades de gobernanza.",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "1b0f4ad768",
+  "src": "<b>Actores técnicos</b>: los agentes de cada participante, que gestionan metadatos, negocian el contrato y ejecutan la transferencia.",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "5701168008",
+  "src": "<b>Servicios facilitadores</b>: catálogo, descubrimiento y servicios de confianza que emiten y verifican credenciales.",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "cea0057ffb",
+  "src": "La unidad de intercambio no es el dato en bruto, sino el <b>producto de datos</b>: los datos junto con sus metadatos de versión, procedencia y linaje, las condiciones de uso (licencias, permisos, obligaciones y prohibiciones), el modelo de datos y el nivel de servicio. Se gestiona durante todo su ciclo de vida, desde la publicación y la negociación hasta la retirada.",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "9e6012164c",
+  "src": "Se completa con un modelo de madurez en seis dimensiones (gobernanza, negocio, cumplimiento legal, interoperabilidad, control de datos y confianza) y con el Acuerdo de Viena con ISO/IEC JTC 1/SC 38, para que estos marcos de confianza se aprueben en paralelo como estándares mundiales.",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "1df87001bc",
+  "src": "Semántica y calidad según el contexto: ETSI TC DATA",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "a0d623889b",
+  "src": "Diego López · presidente de ETSI TC DATA",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "1b99c11670",
+  "src": "ETSI creó en 2025 un comité técnico para unificar sus trabajos sobre datos, con tres grupos: modelos de información y semántica, infraestructura de datos y aplicaciones sectoriales (transporte marítimo, agricultura, 5G-Advanced y 6G). Sus piezas clave son la ontología SAREF, para que datos de sectores distintos se entiendan entre sí, y el protocolo NGSI-LD para gestionar e intercambiar información de contexto. Un mensaje para retener: la calidad del dato no es absoluta; depende del uso, y por eso se definen métricas verificables en origen para que cada consumidor decida si le sirven.",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "b8d2b80308",
+  "src": "Del código abierto a ISO: el camino de IDSA",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "6f667e1a63",
+  "src": "Silvia Castelli · International Data Spaces Association",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "d2cce2fd65",
+  "src": "IDSA no parte de la teoría, sino de los más de 200 espacios de datos que sigue. Su ciclo es: detectar necesidades en despliegues reales, escribir especificaciones abiertas en el grupo Eclipse Data Spaces, probarlas con componentes reales como Eclipse Dataspace Components o Tractus-X y llevarlas a ISO por la vía PAS. Así nacieron el <i>Dataspace Protocol</i> (DSP), para que los conectores se entiendan, y el <i>Decentralized Claims Protocol</i> (DCP), para la identidad y las credenciales. Quedan huecos: ontologías para vigilar el cumplimiento de las políticas de uso, pasaportes digitales de producto y metadatos interoperables entre sectores y países.",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "a3906d86bf",
+  "src": "Lo mínimo que debe hablar cualquier espacio de datos",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "c5d228cb1e",
+  "src": "Daniel Alonso · BDVA, Data Spaces Support Centre",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "884f71d732",
+  "src": "El DSSC entra en una segunda fase, centrada en escalar y en generar impacto real. Tras revisar 130 estándares, recomienda tres pilares comunes del W3C: <b>ODRL</b> para expresar las políticas de uso, <b>credenciales verificables</b> para la identidad y <b>DCAT</b> para describir los catálogos. También anunció los premios europeos a los espacios de datos, que se evalúan con el modelo de madurez de CEN/CENELEC.",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "0ff87a3b85",
+  "src": "¿Puede Europa exportar su modelo?",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "553165fad0",
+  "src": "En la mesa redonda final, Knut Blind preguntó si habrá un «efecto Bruselas» en los datos. Steinbuss respondió que sí en lo técnico, porque los protocolos funcionan igual en todas partes, pero no automáticamente en lo organizativo, porque cada región entiende la soberanía de forma distinta. López vio la oportunidad de convertir los principios europeos en un sello de calidad y confianza, como ocurrió con el RGPD. Castelli recordó que el pasaporte digital de producto no funcionará sin acordar estándares con los fabricantes asiáticos. Alonso subrayó que la cooperación con ISO y el W3C existe precisamente para que Europa no se aísle.",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "f2d1c96606",
+  "src": "Qué significa para quien construye un espacio de datos",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "21bcb60d59",
+  "src": "Nuestra lectura es que el camino ya está trazado. Quien hoy monte un espacio de datos con conectores Eclipse, el Dataspace Protocol, contratos ODRL, credenciales verificables y catálogos DCAT estará alineado con la norma armonizada que viene y podrá demostrarlo con el modelo de madurez. Es la arquitectura que aplicamos en Global Data Care, PROCUREDATA y EcoDataNet.",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "c44748c4b7",
+  "src": "Hablemos de su espacio de datos",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "ea913822bc",
+  "src": "Fuente: seminario web «Geopolitics of ICT Standardisation with a focus on the evolving landscape of data standardisation», organizado por StandICT_eu (octubre de 2026). Este texto es un resumen y comentario de Software in a Box; para las palabras exactas de cada ponente, consulte la grabación.",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "9b9c9098ae",
+  "src": "<span>Data Act</span><span>Digital Omnibus</span><span>CEN/CENELEC JTC 25</span><span>ETSI TC DATA</span><span>IDSA</span><span>DSSC</span><span>ODRL</span><span>DCAT</span>",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "02eb2b6fe0",
+  "src": "Qué se está decidiendo en Europa sobre estándares de datos: Data Act, Digital Omnibus, transacciones de datos confiables (CEN/CENELEC JTC 25), ETSI TC DATA, IDSA y DSSC. Resumen comentado del seminario web de StandICT_eu.",
+  "kind": "attr",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "3182391adc",
+  "src": "La geopolítica de los estándares de datos en Europa",
+  "kind": "attr",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "7a860e6cf2",
+  "src": "Data Act, transacciones de datos confiables, productos de datos y el «efecto Bruselas»: claves del seminario web de StandICT_eu.",
+  "kind": "attr",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "d811b2656b",
+  "src": "Resumen comentado del seminario web de StandICT_eu sobre la geopolítica de la estandarización TIC y el nuevo panorama de los estándares de datos.",
+  "kind": "jsonld",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "4b9805826e",
+  "src": "Estandarización de espacios de datos en la Unión Europea",
+  "kind": "jsonld",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "17c4257794",
+  "src": "Geopolitics of ICT Standardisation with a focus on the evolving landscape of data standardisation",
+  "kind": "jsonld",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "3011bbb36a",
+  "src": "Seminario web de StandICT_eu con ponentes de la Comisión Europea, CEN/CENELEC JTC 25, ETSI TC DATA, IDSA y DSSC.",
+  "kind": "jsonld",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "7a0eca5865",
+  "src": "Geopolítica de los estándares de datos",
+  "kind": "jsonld",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "4647b1e421",
+  "src": "Espacios de datos · Software in a Box",
+  "kind": "attr",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "4373399b0e",
+  "src": "Ruta",
+  "kind": "attr",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
   ]
  }
 ]
