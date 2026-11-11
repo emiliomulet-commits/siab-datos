@@ -130,6 +130,7 @@ footer{background:#081A33;color:#AAB7C8;padding:34px 0;font-size:14.5px}.ft{disp
 .pvideo{border-radius:16px;overflow:hidden;background:#0B2545;box-shadow:0 10px 30px rgba(11,37,69,.18);aspect-ratio:16/9}
 .pvideo video{width:100%;height:100%;display:block}
 .pcap{font-size:14px;color:var(--mute);margin-top:10px}
+.pvtabs{display:flex;gap:8px;margin-bottom:12px}.pvtabs button{font:600 14px inherit;font-family:inherit;padding:8px 16px;border-radius:999px;border:1.5px solid #0B2545;background:#fff;color:#0B2545;cursor:pointer}.pvtabs button[aria-pressed="true"]{background:#0B2545;color:#fff}
 .plist{display:flex;flex-direction:column;gap:14px}
 .plist .card h3{margin-top:0}
 .pgrid.novideo{grid-template-columns:1fr}.pgrid.novideo .plist{display:grid;grid-template-columns:repeat(3,1fr)}
@@ -239,8 +240,8 @@ footer{background:#081A33;color:#AAB7C8;padding:34px 0;font-size:14.5px}.ft{disp
 <section id="partners"><div class="wrap">
   <div class="head"><div class="eyebrow dk">Partner programme · Microsoft Azure</div><h2>A health data space your team can sell</h2><p>We are looking for Microsoft partners, technology integrators and software developers who want to offer their customers a federated data space on Azure. We bring the network, the data model and neutral operation; you sell, deploy and operate.</p></div>
   <div class="pgrid" id="pgrid">
-    <div id="pvideo-box"><div class="pvideo"><video id="pvideo" controls preload="none" playsinline aria-label="Video for Microsoft partners"></video></div>
-      <p class="pcap">Partner briefing · about 6 minutes · in English</p></div>
+    <div id="pvideo-box"><div class="pvtabs" id="pvtabs" role="group"></div><div class="pvideo"><video id="pvideo" controls preload="none" playsinline aria-label="Video for Microsoft partners"></video></div>
+      <p class="pcap" id="pcap">Partner briefing · about 6 minutes · in English</p></div>
     <div class="plist">
       <div class="card"><h3>No R&amp;D of your own</h3><p>A reference architecture on Azure (FHIR, DICOM, Fabric and AI) and Eclipse connectors already proven in three real data spaces.</p></div>
       <div class="card"><h3>Recurring revenue</h3><p>Deployment per customer, Azure consumption, managed services and compliance with the EHDS and the AI Act.</p></div>
@@ -251,8 +252,15 @@ footer{background:#081A33;color:#AAB7C8;padding:34px 0;font-size:14.5px}.ft{disp
   <div class="ctas"><a class="btn btn-teal" href="#contacto">Request the partner briefing</a></div>
 </div></section>
 <script data-i18n="skip">
-(function(){var V={da:'https://datos.softwareinabox.eu/assets/video/partners-da','fr-be':'https://datos.softwareinabox.eu/assets/video/partners-fr-be','nl-be':'https://datos.softwareinabox.eu/assets/video/partners-nl-be'};var l=document.documentElement.lang,v=document.getElementById('pvideo');
-if(V[l]){v.src=V[l]+'.mp4';v.poster=V[l]+'.jpg';}else{document.getElementById('pvideo-box').remove();document.getElementById('pgrid').classList.add('novideo');}})();
+(function(){var B='https://datos.softwareinabox.eu/assets/video/';
+var V={da:[{l:'Dansk',s:'partners-da-dk',c:'Partnerbriefing for Danmark · ca. 6 minutter · på dansk'},{l:'English',s:'partners-da',c:'Partner briefing for Denmark · about 6 minutes · in English'}],
+'fr-be':[{l:'',s:'partners-fr-be'}],'nl-be':[{l:'',s:'partners-nl-be'}]};
+var l=document.documentElement.lang,v=document.getElementById('pvideo'),t=document.getElementById('pvtabs'),c=document.getElementById('pcap'),L=V[l];
+if(!L){document.getElementById('pvideo-box').remove();document.getElementById('pgrid').classList.add('novideo');return;}
+function pick(k){var x=L[k];v.pause();v.src=B+x.s+'.mp4';v.poster=B+x.s+'.jpg';if(L.length>1)c.textContent=x.c;
+[].forEach.call(t.children,function(b,j){b.setAttribute('aria-pressed',j===k?'true':'false')});}
+if(L.length>1){L.forEach(function(x,k){var b=document.createElement('button');b.type='button';b.textContent=x.l;b.onclick=function(){pick(k)};t.appendChild(b)});}else{t.remove();}
+pick(0);})();
 </script>
 <section class="soft" id="recursos"><div class="wrap">
   <div class="head"><div class="eyebrow dk">Articles and videos</div><h2>Understanding where data spaces are heading</h2><p>We select videos and write articles on the regulation, standards and technology shaping European data spaces.</p></div>
