@@ -324,7 +324,26 @@ def page_match(s, path):
 
 
 def lpath(pg, lang):
-    return ("/" + lang + pg["path"]) if lang != SRC else pg["path"]
+    """Ruta pública. "paths": {"en": "/resources"} en sites.json traduce el slug de un idioma."""
+    if lang == SRC:
+        return pg["path"]
+    return "/" + lang + pg.get("paths", {}).get(lang, pg["path"])
+
+
+def lfile(pg, lang):
+    """Fichero de salida dentro de la carpeta del idioma (sigue al slug traducido si lo hay)."""
+    p = pg.get("paths", {}).get(lang)
+    if not p:
+        return pg["file"]
+    return (p.strip("/") or "index") + ("" if p.endswith(".html") else ".html")
+
+
+def redirect_stub(url):
+    return ('<!DOCTYPE html>\n<html><head><meta charset="utf-8"><title>Redirect</title>'
+            f'<meta name="robots" content="noindex"><link rel="canonical" href="{url}">'
+            f'<meta http-equiv="refresh" content="0; url={url}">'
+            f'<script>location.replace("{url}")</script></head>'
+            f'<body><a href="{url}">{url}</a></body></html>\n')
 
 
 def loc_url(u, lang):
@@ -531,9 +550,13 @@ def build(only=None):
         missing = []
         for pg in SITE["pages"]:
             out = build_page(pg, lang, tr, missing)
-            dest = os.path.join(ROOT, lang, pg["file"])
+            dest = os.path.join(ROOT, lang, lfile(pg, lang))
             os.makedirs(os.path.dirname(dest), exist_ok=True)
             open(dest, "w", encoding="utf-8").write(out)
+            if lfile(pg, lang) != pg["file"]:  # la ruta antigua (slug en español) redirige a la traducida
+                old = os.path.join(ROOT, lang, pg["file"])
+                os.makedirs(os.path.dirname(old), exist_ok=True)
+                open(old, "w", encoding="utf-8").write(redirect_stub(SITE["base"] + lpath(pg, lang)))
         report[lang] = sorted(set(missing))
         print(f"{lang}: {len(SITE['pages'])} páginas" + (f", {len(report[lang])} textos sin traducir" if report[lang] else ""))
     sitemap(); llms()

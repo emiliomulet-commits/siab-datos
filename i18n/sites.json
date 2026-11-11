@@ -54,8 +54,10 @@
       "hosts": ["datos.softwareinabox.eu"],
       "pages": [
         {"file": "index.html", "path": "/", "changefreq": "monthly", "priority": "1.0"},
-        {"file": "recursos.html", "path": "/recursos", "changefreq": "monthly", "priority": "0.8"},
-        {"file": "articulos/geopolitica-estandarizacion-datos.html", "path": "/articulos/geopolitica-estandarizacion-datos", "changefreq": "yearly", "priority": "0.7"}
+        {"file": "recursos.html", "path": "/recursos", "changefreq": "monthly", "priority": "0.8",
+         "paths": {"en": "/resources", "fr": "/ressources", "de": "/ressourcen", "nl": "/bronnen", "it": "/risorse"}},
+        {"file": "articulos/geopolitica-estandarizacion-datos.html", "path": "/articulos/geopolitica-estandarizacion-datos", "changefreq": "yearly", "priority": "0.7",
+         "paths": {"en": "/articles/geopolitics-of-data-standards", "fr": "/articles/geopolitique-des-normes-de-donnees", "de": "/artikel/geopolitik-der-datenstandards", "nl": "/artikelen/geopolitiek-van-datastandaarden", "it": "/articoli/geopolitica-degli-standard-dei-dati", "pt": "/artigos/geopolitica-das-normas-de-dados"}}
       ]
     }
   }
