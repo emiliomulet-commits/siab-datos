@@ -357,8 +357,8 @@ def loc_url(u, lang):
         pg = page_match(s, m.group(3) or "/")
         if not pg:
             return u
-        if s is not SITE:  # webs hermanas sin versión de país: usar el idioma base (fr-be -> fr)
-            lang = CFG.get("fallback", {}).get(lang, lang)
+        if lang in CFG.get("lang_sites", {}) and key not in CFG["lang_sites"][lang]:
+            lang = CFG["fallback"][lang]  # la web de destino no tiene esa versión (fr-be -> fr, da -> en)
         return s["base"] + lpath(pg, lang) + (m.group(4) or "")
     if re.match(r"^[a-z]+:", u):
         return u

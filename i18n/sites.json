@@ -240,6 +240,20 @@
   },
   "fallback": {
     "fr-be": "fr",
-    "nl-be": "nl"
+    "nl-be": "nl",
+    "da": "en"
+  },
+  "lang_sites": {
+    "fr-be": [
+      "www",
+      "datos"
+    ],
+    "nl-be": [
+      "www",
+      "datos"
+    ],
+    "da": [
+      "datos"
+    ]
   }
 }
