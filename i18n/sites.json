@@ -7,7 +7,9 @@
     "nl",
     "pt",
     "it",
-    "da"
+    "da",
+    "fr-be",
+    "nl-be"
   ],
   "x_default": "en",
   "locales": {
@@ -18,7 +20,9 @@
     "nl": "nl_NL",
     "pt": "pt_PT",
     "it": "it_IT",
-    "da": "da_DK"
+    "da": "da_DK",
+    "fr-be": "fr_BE",
+    "nl-be": "nl_BE"
   },
   "names": {
     "es": "Español",
@@ -28,7 +32,9 @@
     "nl": "Nederlands",
     "pt": "Português",
     "it": "Italiano",
-    "da": "Dansk"
+    "da": "Dansk",
+    "fr-be": "Français (Belgique)",
+    "nl-be": "Nederlands (België)"
   },
   "sites": {
     "www": {
@@ -207,7 +213,9 @@
             "de": "/ressourcen",
             "nl": "/bronnen",
             "it": "/risorse",
-            "da": "/ressourcer"
+            "da": "/ressourcer",
+            "fr-be": "/ressources",
+            "nl-be": "/bronnen"
           }
         },
         {
@@ -222,10 +230,16 @@
             "nl": "/artikelen/geopolitiek-van-datastandaarden",
             "it": "/articoli/geopolitica-degli-standard-dei-dati",
             "pt": "/artigos/geopolitica-das-normas-de-dados",
-            "da": "/artikler/datastandardernes-geopolitik"
+            "da": "/artikler/datastandardernes-geopolitik",
+            "fr-be": "/articles/geopolitique-des-normes-de-donnees",
+            "nl-be": "/artikelen/geopolitiek-van-datastandaarden"
           }
         }
       ]
     }
+  },
+  "fallback": {
+    "fr-be": "fr",
+    "nl-be": "nl"
   }
 }

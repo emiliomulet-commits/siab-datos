@@ -13,6 +13,8 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/"/>
   </url>
   <url>
@@ -28,6 +30,8 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/"/>
   </url>
   <url>
@@ -43,6 +47,8 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/"/>
   </url>
   <url>
@@ -58,6 +64,8 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/"/>
   </url>
   <url>
@@ -73,6 +81,8 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/"/>
   </url>
   <url>
@@ -88,6 +98,8 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/"/>
   </url>
   <url>
@@ -103,6 +115,8 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/"/>
   </url>
   <url>
@@ -118,6 +132,42 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/"/>
+  </url>
+  <url>
+    <loc>https://datos.softwareinabox.eu/fr-be/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://datos.softwareinabox.eu/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://datos.softwareinabox.eu/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://datos.softwareinabox.eu/de/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://datos.softwareinabox.eu/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/"/>
+  </url>
+  <url>
+    <loc>https://datos.softwareinabox.eu/nl-be/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://datos.softwareinabox.eu/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://datos.softwareinabox.eu/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://datos.softwareinabox.eu/de/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://datos.softwareinabox.eu/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/"/>
   </url>
   <url>
@@ -133,6 +183,8 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/recursos"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/risorse"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/ressourcer"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/ressources"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/bronnen"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/resources"/>
   </url>
   <url>
@@ -148,6 +200,8 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/recursos"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/risorse"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/ressourcer"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/ressources"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/bronnen"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/resources"/>
   </url>
   <url>
@@ -163,6 +217,8 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/recursos"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/risorse"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/ressourcer"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/ressources"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/bronnen"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/resources"/>
   </url>
   <url>
@@ -178,6 +234,8 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/recursos"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/risorse"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/ressourcer"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/ressources"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/bronnen"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/resources"/>
   </url>
   <url>
@@ -193,6 +251,8 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/recursos"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/risorse"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/ressourcer"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/ressources"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/bronnen"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/resources"/>
   </url>
   <url>
@@ -208,6 +268,8 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/recursos"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/risorse"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/ressourcer"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/ressources"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/bronnen"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/resources"/>
   </url>
   <url>
@@ -223,6 +285,8 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/recursos"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/risorse"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/ressourcer"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/ressources"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/bronnen"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/resources"/>
   </url>
   <url>
@@ -238,6 +302,42 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/recursos"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/risorse"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/ressourcer"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/ressources"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/bronnen"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/resources"/>
+  </url>
+  <url>
+    <loc>https://datos.softwareinabox.eu/fr-be/ressources</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/recursos"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://datos.softwareinabox.eu/en/resources"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://datos.softwareinabox.eu/fr/ressources"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://datos.softwareinabox.eu/de/ressourcen"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://datos.softwareinabox.eu/nl/bronnen"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/recursos"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/risorse"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/ressourcer"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/ressources"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/bronnen"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/resources"/>
+  </url>
+  <url>
+    <loc>https://datos.softwareinabox.eu/nl-be/bronnen</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/recursos"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://datos.softwareinabox.eu/en/resources"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://datos.softwareinabox.eu/fr/ressources"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://datos.softwareinabox.eu/de/ressourcen"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://datos.softwareinabox.eu/nl/bronnen"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/recursos"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/risorse"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/ressourcer"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/ressources"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/bronnen"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/resources"/>
   </url>
   <url>
@@ -253,6 +353,8 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/artigos/geopolitica-das-normas-de-dados"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/articoli/geopolitica-degli-standard-dei-dati"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/artikler/datastandardernes-geopolitik"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/articles/geopolitique-des-normes-de-donnees"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/artikelen/geopolitiek-van-datastandaarden"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/articles/geopolitics-of-data-standards"/>
   </url>
   <url>
@@ -268,6 +370,8 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/artigos/geopolitica-das-normas-de-dados"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/articoli/geopolitica-degli-standard-dei-dati"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/artikler/datastandardernes-geopolitik"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/articles/geopolitique-des-normes-de-donnees"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/artikelen/geopolitiek-van-datastandaarden"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/articles/geopolitics-of-data-standards"/>
   </url>
   <url>
@@ -283,6 +387,8 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/artigos/geopolitica-das-normas-de-dados"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/articoli/geopolitica-degli-standard-dei-dati"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/artikler/datastandardernes-geopolitik"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/articles/geopolitique-des-normes-de-donnees"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/artikelen/geopolitiek-van-datastandaarden"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/articles/geopolitics-of-data-standards"/>
   </url>
   <url>
@@ -298,6 +404,8 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/artigos/geopolitica-das-normas-de-dados"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/articoli/geopolitica-degli-standard-dei-dati"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/artikler/datastandardernes-geopolitik"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/articles/geopolitique-des-normes-de-donnees"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/artikelen/geopolitiek-van-datastandaarden"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/articles/geopolitics-of-data-standards"/>
   </url>
   <url>
@@ -313,6 +421,8 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/artigos/geopolitica-das-normas-de-dados"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/articoli/geopolitica-degli-standard-dei-dati"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/artikler/datastandardernes-geopolitik"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/articles/geopolitique-des-normes-de-donnees"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/artikelen/geopolitiek-van-datastandaarden"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/articles/geopolitics-of-data-standards"/>
   </url>
   <url>
@@ -328,6 +438,8 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/artigos/geopolitica-das-normas-de-dados"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/articoli/geopolitica-degli-standard-dei-dati"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/artikler/datastandardernes-geopolitik"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/articles/geopolitique-des-normes-de-donnees"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/artikelen/geopolitiek-van-datastandaarden"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/articles/geopolitics-of-data-standards"/>
   </url>
   <url>
@@ -343,6 +455,8 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/artigos/geopolitica-das-normas-de-dados"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/articoli/geopolitica-degli-standard-dei-dati"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/artikler/datastandardernes-geopolitik"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/articles/geopolitique-des-normes-de-donnees"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/artikelen/geopolitiek-van-datastandaarden"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/articles/geopolitics-of-data-standards"/>
   </url>
   <url>
@@ -358,6 +472,42 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/artigos/geopolitica-das-normas-de-dados"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/articoli/geopolitica-degli-standard-dei-dati"/>
     <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/artikler/datastandardernes-geopolitik"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/articles/geopolitique-des-normes-de-donnees"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/artikelen/geopolitiek-van-datastandaarden"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/articles/geopolitics-of-data-standards"/>
+  </url>
+  <url>
+    <loc>https://datos.softwareinabox.eu/fr-be/articles/geopolitique-des-normes-de-donnees</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/articulos/geopolitica-estandarizacion-datos"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://datos.softwareinabox.eu/en/articles/geopolitics-of-data-standards"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://datos.softwareinabox.eu/fr/articles/geopolitique-des-normes-de-donnees"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://datos.softwareinabox.eu/de/artikel/geopolitik-der-datenstandards"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://datos.softwareinabox.eu/nl/artikelen/geopolitiek-van-datastandaarden"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/artigos/geopolitica-das-normas-de-dados"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/articoli/geopolitica-degli-standard-dei-dati"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/artikler/datastandardernes-geopolitik"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/articles/geopolitique-des-normes-de-donnees"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/artikelen/geopolitiek-van-datastandaarden"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/articles/geopolitics-of-data-standards"/>
+  </url>
+  <url>
+    <loc>https://datos.softwareinabox.eu/nl-be/artikelen/geopolitiek-van-datastandaarden</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/articulos/geopolitica-estandarizacion-datos"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://datos.softwareinabox.eu/en/articles/geopolitics-of-data-standards"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://datos.softwareinabox.eu/fr/articles/geopolitique-des-normes-de-donnees"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://datos.softwareinabox.eu/de/artikel/geopolitik-der-datenstandards"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://datos.softwareinabox.eu/nl/artikelen/geopolitiek-van-datastandaarden"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/artigos/geopolitica-das-normas-de-dados"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/articoli/geopolitica-degli-standard-dei-dati"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/artikler/datastandardernes-geopolitik"/>
+    <xhtml:link rel="alternate" hreflang="fr-be" href="https://datos.softwareinabox.eu/fr-be/articles/geopolitique-des-normes-de-donnees"/>
+    <xhtml:link rel="alternate" hreflang="nl-be" href="https://datos.softwareinabox.eu/nl-be/artikelen/geopolitiek-van-datastandaarden"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/articles/geopolitics-of-data-standards"/>
   </url>
 </urlset>

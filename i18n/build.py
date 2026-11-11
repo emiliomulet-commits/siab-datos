@@ -357,6 +357,8 @@ def loc_url(u, lang):
         pg = page_match(s, m.group(3) or "/")
         if not pg:
             return u
+        if s is not SITE:  # webs hermanas sin versión de país: usar el idioma base (fr-be -> fr)
+            lang = CFG.get("fallback", {}).get(lang, lang)
         return s["base"] + lpath(pg, lang) + (m.group(4) or "")
     if re.match(r"^[a-z]+:", u):
         return u
@@ -413,7 +415,7 @@ def switcher(pg, lang):
         items.append(f'<li><a href="{base}{lpath(pg, l)}" hreflang="{l}" lang="{l}"{cur}>{CFG["names"][l]}</a></li>')
     globe = ('<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">'
              '<circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15 15 0 0 1 0 20M12 2a15 15 0 0 0 0 20"/></svg>')
-    label = {"es": "Idioma", "en": "Language", "fr": "Langue", "de": "Sprache", "nl": "Taal", "pt": "Idioma", "it": "Lingua", "da": "Sprog"}.get(lang, "Language")
+    label = {"es": "Idioma", "en": "Language", "fr": "Langue", "de": "Sprache", "nl": "Taal", "pt": "Idioma", "it": "Lingua", "da": "Sprog", "fr-be": "Langue", "nl-be": "Taal"}.get(lang, "Language")
     return ("<!-- I18N-SW:BEGIN -->" + SW_CSS +
             f'<nav class="i18n-sw" aria-label="{label}"><details><summary>{globe}{lang.upper()}</summary><ul>'
             + "".join(items) + "</ul></details></nav><!-- I18N-SW:END -->")
