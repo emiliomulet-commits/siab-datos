@@ -18,8 +18,8 @@
   ]
  },
  {
-  "id": "cfa650ff7a",
-  "src": "<a href=\"#que-es\">Qué es</a><a href=\"#tecnologia\">Tecnología</a><a href=\"#experiencia\">Experiencia</a><a href=\"#salud\">Salud dental</a><a href=\"#recursos\">Artículos y vídeos</a><a class=\"btn btn-teal\" href=\"#contacto\">Hablemos</a>",
+  "id": "05acc31006",
+  "src": "<a href=\"#que-es\">Qué es</a><a href=\"#tecnologia\">Tecnología</a><a href=\"#experiencia\">Experiencia</a><a href=\"#salud\">Salud dental</a><a href=\"/recursos\">Artículos y vídeos</a><a class=\"btn btn-teal\" href=\"#contacto\">Hablemos</a>",
   "kind": "html",
   "pages": [
    "index.html"
@@ -1005,17 +1005,16 @@
   ]
  },
  {
-  "id": "db3a629161",
-  "src": "<a href=\"/#que-es\">Qué es</a><a href=\"/#tecnologia\">Tecnología</a><a href=\"/#recursos\">Artículos y vídeos</a><a class=\"btn btn-teal\" href=\"/#contacto\">Hablemos</a>",
+  "id": "6490884d5a",
+  "src": "<a href=\"/#que-es\">Qué es</a><a href=\"/#tecnologia\">Tecnología</a><a href=\"/recursos\" aria-current=\"page\">Artículos y vídeos</a><a class=\"btn btn-teal\" href=\"/#contacto\">Hablemos</a>",
   "kind": "html",
   "pages": [
-   "recursos.html",
-   "articulos/geopolitica-estandarizacion-datos.html"
+   "recursos.html"
   ]
  },
  {
-  "id": "f15e0848d7",
-  "src": "<a href=\"/\">Espacios de datos</a> › <a href=\"/#recursos\">Artículos y vídeos</a>",
+  "id": "2dc5466683",
+  "src": "<a href=\"/\">Espacios de datos</a> › <a href=\"/recursos\">Artículos y vídeos</a>",
   "kind": "html",
   "pages": [
    "recursos.html",
@@ -1057,6 +1056,94 @@
  {
   "id": "ac3003d8e9",
   "src": "<span>Ir a:</span><a href=\"#ram\">IDS-RAM</a><a href=\"#dsp\">Dataspace Protocol</a><a href=\"#rulebook\">Rulebook</a><a href=\"#dsbok\">Body of Knowledge</a><a href=\"#cert\">Certification</a><a href=\"#investigacion\">Investigación</a><a href=\"#normas\">Normas</a>",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "6cc6198d9e",
+  "src": "Tipo",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "fdebf66721",
+  "src": "Todo",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "147cb724a0",
+  "src": "Vídeos",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "d8168e858e",
+  "src": "Artículos",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "9ab1c4e488",
+  "src": "Investigación",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "ada9db57a4",
+  "src": "Nivel",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "a4114a83f4",
+  "src": "Todos",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "e3772977d1",
+  "src": "Introducción",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "8b99bcc0cb",
+  "src": "Técnico",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "d7c0f3a8c7",
+  "src": "<b id=\"nres\">0</b> recursos",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "c39cbb1448",
+  "src": "No hay recursos con estos filtros.",
   "kind": "html",
   "pages": [
    "recursos.html"
@@ -1247,48 +1334,40 @@
   ]
  },
  {
-  "id": "147cb724a0",
-  "src": "Vídeos",
+  "id": "a5b4c745ff",
+  "src": "Evolving data space concepts: upcoming updates to the IDS-RAM & IDSA Rulebook",
   "kind": "html",
   "pages": [
    "recursos.html"
   ]
  },
  {
-  "id": "19379b90be",
-  "src": "IDSA Tech Talk: IDS-RAM and IDSA Rulebook",
+  "id": "b8a864709c",
+  "src": "YouTube · IDSA Tech Talk · 2025-12",
   "kind": "html",
   "pages": [
    "recursos.html"
   ]
  },
  {
-  "id": "a45fce105b",
-  "src": "YouTube · IDSA · 2026",
+  "id": "fba1fab050",
+  "src": "Las próximas actualizaciones del modelo de referencia y del Rulebook. Es la sesión más reciente de esta selección.",
   "kind": "html",
   "pages": [
    "recursos.html"
   ]
  },
  {
-  "id": "3e31be3c58",
-  "src": "Cómo se complementan el modelo de referencia y el Rulebook. Es la sesión más reciente de esta selección.",
+  "id": "8655bcbf98",
+  "src": "IDS Reference Architecture Model (webinar)",
   "kind": "html",
   "pages": [
    "recursos.html"
   ]
  },
  {
-  "id": "4c1de55eab",
-  "src": "Webinar on the IDS Reference Architecture Model",
-  "kind": "html",
-  "pages": [
-   "recursos.html"
-  ]
- },
- {
-  "id": "0bdac172fd",
-  "src": "YouTube · IDSA · 2024",
+  "id": "f7acc420d7",
+  "src": "YouTube · IDSA · PLIADES · 2024",
   "kind": "html",
   "pages": [
    "recursos.html"
@@ -1303,16 +1382,16 @@
   ]
  },
  {
-  "id": "17aed49f2b",
-  "src": "IDSA Tech Talk: the IDS Reference Architecture Model",
+  "id": "c91d4a5d44",
+  "src": "IDS Reference Architecture Model – the standard for sovereign data sharing",
   "kind": "html",
   "pages": [
    "recursos.html"
   ]
  },
  {
-  "id": "da612306b6",
-  "src": "YouTube · IDSA · 2023",
+  "id": "055c9f3aee",
+  "src": "YouTube · IDSA Tech Talk · 2023-04",
   "kind": "html",
   "pages": [
    "recursos.html"
@@ -1327,8 +1406,16 @@
   ]
  },
  {
-  "id": "bdad88b578",
-  "src": "IDSA Tech Talk: the IDS Information Model",
+  "id": "8ebfe0fd6a",
+  "src": "The Information Model – key to achieve semantic interoperability",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "d78c5b613b",
+  "src": "YouTube · IDSA Tech Talk · 2023-07",
   "kind": "html",
   "pages": [
    "recursos.html"
@@ -1343,16 +1430,16 @@
   ]
  },
  {
-  "id": "23d91ee110",
-  "src": "IDSA Online Seminar #4: Reference Architecture Model",
+  "id": "15de065c88",
+  "src": "The IDS Reference Architecture Model from a business point of view",
   "kind": "html",
   "pages": [
    "recursos.html"
   ]
  },
  {
-  "id": "391eff5677",
-  "src": "YouTube · Fraunhofer IAIS · 2018",
+  "id": "076f35e301",
+  "src": "YouTube · IDSA Online Seminar · 2018",
   "kind": "html",
   "pages": [
    "recursos.html"
@@ -1519,16 +1606,16 @@
   ]
  },
  {
-  "id": "50ff8c90c3",
-  "src": "IDSA Tech Talk: the Dataspace Protocol",
+  "id": "8b08eb50e6",
+  "src": "The Dataspace Protocol in action: insights & best practices",
   "kind": "html",
   "pages": [
    "recursos.html"
   ]
  },
  {
-  "id": "e5ccdb017d",
-  "src": "YouTube · IDSA · 2025",
+  "id": "ed2a5a95b6",
+  "src": "YouTube · IDSA Tech Talk · 2025-02",
   "kind": "html",
   "pages": [
    "recursos.html"
@@ -1543,8 +1630,16 @@
   ]
  },
  {
-  "id": "7184677174",
-  "src": "IDSA Tech Talk: secure and controlled data sharing with the DSP",
+  "id": "0706766498",
+  "src": "Unveiling the Dataspace Protocol",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "528a1bc40e",
+  "src": "YouTube · IDSA Tech Talk · 2023-11",
   "kind": "html",
   "pages": [
    "recursos.html"
@@ -1559,8 +1654,16 @@
   ]
  },
  {
-  "id": "0258bad3b3",
-  "src": "IDSA Ecosystem Building Call: introduction to the Dataspace Protocol",
+  "id": "a16a279e8f",
+  "src": "IDSA Ecosystem Building Call «Open Month»: the next level of interoperability for data spaces",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "13226367a0",
+  "src": "YouTube · IDSA · 2024-05",
   "kind": "html",
   "pages": [
    "recursos.html"
@@ -1575,8 +1678,16 @@
   ]
  },
  {
-  "id": "4afb8f096c",
-  "src": "IDSA Tech Talk: the Prometheus-X connector",
+  "id": "3f6bf05823",
+  "src": "Smooth personal data sharing with the Prometheus-X Connector and the Dataspace Protocol",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "f0fb36e9f3",
+  "src": "YouTube · IDSA Tech Talk · 2024-05",
   "kind": "html",
   "pages": [
    "recursos.html"
@@ -1711,8 +1822,8 @@
   ]
  },
  {
-  "id": "da97275e1c",
-  "src": "IDSA Tech Talk: the IDSA Rulebook",
+  "id": "c2af3090e5",
+  "src": "IDSA Rulebook: understanding how to build and operate a data space",
   "kind": "html",
   "pages": [
    "recursos.html"
@@ -1727,8 +1838,16 @@
   ]
  },
  {
-  "id": "a08971cf9f",
-  "src": "IDSA Tech Talk: the IDSA Rule Book",
+  "id": "121e9bfe3c",
+  "src": "IDSA Rulebook – overview and how to implement it",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "4696a34795",
+  "src": "YouTube · IDSA Tech Talk · 2023-02",
   "kind": "html",
   "pages": [
    "recursos.html"
@@ -1743,16 +1862,16 @@
   ]
  },
  {
-  "id": "3f08479035",
-  "src": "IDSA Portfolio Day: Rule Book, certification and components",
+  "id": "1e5a959441",
+  "src": "IDSA Portfolio Day: IDS Rule Book, IDS certification & components",
   "kind": "html",
   "pages": [
    "recursos.html"
   ]
  },
  {
-  "id": "8493bbf2f6",
-  "src": "YouTube · IDSA · 2020",
+  "id": "4bf7a6e5c5",
+  "src": "YouTube · IDSA · 2021-01",
   "kind": "html",
   "pages": [
    "recursos.html"
@@ -1895,16 +2014,16 @@
   ]
  },
  {
-  "id": "0688a36d66",
-  "src": "IDSA Q&A Session: your essential guide to data spaces",
+  "id": "f53fab0b3c",
+  "src": "IDSA Q&amp;A Session: your essential guide to data spaces",
   "kind": "html",
   "pages": [
    "recursos.html"
   ]
  },
  {
-  "id": "1c3f20df35",
-  "src": "YouTube · IDSA",
+  "id": "8b637b9550",
+  "src": "YouTube · IDSA Q&amp;A Session · 2025-02",
   "kind": "html",
   "pages": [
    "recursos.html"
@@ -2047,8 +2166,8 @@
   ]
  },
  {
-  "id": "2679540a19",
-  "src": "Deep-dive into data spaces: choosing the right connector",
+  "id": "357aef5565",
+  "src": "Deep-dive into data spaces: choosing the right connector (TANGO, CEDAR, DIVINE, DATAMITE)",
   "kind": "html",
   "pages": [
    "recursos.html"
@@ -2071,8 +2190,16 @@
   ]
  },
  {
-  "id": "ebbf23324b",
-  "src": "IDSA Update Session: IDS Connector and certification",
+  "id": "54cd372a95",
+  "src": "IDS Connector &amp; Certification – in combination, a trusted gateway to participate in a data space",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "f64404d615",
+  "src": "YouTube · IDSA Update Session · 2023-09",
   "kind": "html",
   "pages": [
    "recursos.html"
@@ -2087,8 +2214,16 @@
   ]
  },
  {
-  "id": "1966b71faf",
-  "src": "IDS Certification: creating trust, enabling business cases",
+  "id": "8e01cb0682",
+  "src": "IDS Certification – creating trust, enabling business cases",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "91e341853e",
+  "src": "YouTube · IDSA Live Session · 2020-09",
   "kind": "html",
   "pages": [
    "recursos.html"
@@ -2103,8 +2238,16 @@
   ]
  },
  {
-  "id": "ec653fafc0",
-  "src": "How to get IDS certified",
+  "id": "3b9e21a21d",
+  "src": "How to get IDS certified: road to become a partner in a data ecosystem",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "5cc74853e4",
+  "src": "YouTube · IDSA Live Session · 2020-10",
   "kind": "html",
   "pages": [
    "recursos.html"
@@ -2119,16 +2262,16 @@
   ]
  },
  {
-  "id": "186cab2ee5",
-  "src": "Integration Test Camp",
+  "id": "c031e57aae",
+  "src": "Integration Test Camp – ensuring interoperability of IDS components",
   "kind": "html",
   "pages": [
    "recursos.html"
   ]
  },
  {
-  "id": "e85cba794e",
-  "src": "YouTube · SQS · 2020",
+  "id": "1afb616892",
+  "src": "YouTube · IDSA Live Session · SQS · 2020-11",
   "kind": "html",
   "pages": [
    "recursos.html"
@@ -2137,14 +2280,6 @@
  {
   "id": "319ffdefb2",
   "src": "Pruebas de interoperabilidad entre componentes IDS.",
-  "kind": "html",
-  "pages": [
-   "recursos.html"
-  ]
- },
- {
-  "id": "9ab1c4e488",
-  "src": "Investigación",
   "kind": "html",
   "pages": [
    "recursos.html"
@@ -2658,6 +2793,14 @@
   ]
  },
  {
+  "id": "15190f787d",
+  "src": "Filtrar recursos",
+  "kind": "attr",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
   "id": "47c892ff41",
   "src": "Reproducir el seminario de StandICT_eu desde la diapositiva de IDSA",
   "kind": "attr",
@@ -2668,6 +2811,14 @@
  {
   "id": "6cf4775250",
   "src": "Geopolítica de la estandarización de datos en Europa | Software in a Box",
+  "kind": "html",
+  "pages": [
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "c988a54ff9",
+  "src": "<a href=\"/#que-es\">Qué es</a><a href=\"/#tecnologia\">Tecnología</a><a href=\"/recursos\">Artículos y vídeos</a><a class=\"btn btn-teal\" href=\"/#contacto\">Hablemos</a>",
   "kind": "html",
   "pages": [
    "articulos/geopolitica-estandarizacion-datos.html"
