@@ -6,6 +6,7 @@
 - [Software in a Box](https://www.softwareinabox.eu/): empresa matriz, también desarrolla COGNITIV y ARGOS.
 
 ## Artículos y vídeos
+- [Biblioteca: los 5 activos de IDSA](https://datos.softwareinabox.eu/recursos): más de 50 artículos, vídeos, artículos científicos y normas sobre IDS-RAM, Dataspace Protocol, IDSA Rulebook, Data Space Body of Knowledge e IDS Certification.
 - [La geopolítica de los estándares de datos](https://datos.softwareinabox.eu/articulos/geopolitica-estandarizacion-datos): resumen comentado del seminario web de StandICT_eu (Data Act, Digital Omnibus, transacciones de datos confiables de CEN/CENELEC JTC 25, ETSI TC DATA, IDSA y DSSC), con el vídeo incrustado.
 
 ## Experiencia

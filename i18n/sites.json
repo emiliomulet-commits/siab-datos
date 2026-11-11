@@ -54,6 +54,7 @@
       "hosts": ["datos.softwareinabox.eu"],
       "pages": [
         {"file": "index.html", "path": "/", "changefreq": "monthly", "priority": "1.0"},
+        {"file": "recursos.html", "path": "/recursos", "changefreq": "monthly", "priority": "0.8"},
         {"file": "articulos/geopolitica-estandarizacion-datos.html", "path": "/articulos/geopolitica-estandarizacion-datos", "changefreq": "yearly", "priority": "0.7"}
       ]
     }

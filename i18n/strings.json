@@ -13,6 +13,7 @@
   "kind": "html",
   "pages": [
    "index.html",
+   "recursos.html",
    "articulos/geopolitica-estandarizacion-datos.html"
   ]
  },
@@ -662,6 +663,7 @@
   "kind": "html",
   "pages": [
    "index.html",
+   "recursos.html",
    "articulos/geopolitica-estandarizacion-datos.html"
   ]
  },
@@ -695,7 +697,8 @@
   "src": "Vídeo",
   "kind": "html",
   "pages": [
-   "index.html"
+   "index.html",
+   "recursos.html"
   ]
  },
  {
@@ -744,6 +747,7 @@
   "kind": "html",
   "pages": [
    "index.html",
+   "recursos.html",
    "articulos/geopolitica-estandarizacion-datos.html"
   ]
  },
@@ -758,6 +762,14 @@
  {
   "id": "d3867f9b19",
   "src": "Leer el artículo →",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "d9ad1d5236",
+  "src": "<span class=\"rtag\">Biblioteca</span><b>Los 5 activos de IDSA: artículos, vídeos e investigación</b><span class=\"rl\">Más de 50 recursos seleccionados sobre el modelo de referencia, el Dataspace Protocol, el Rulebook, la formación y la certificación, con artículos científicos y normas.</span><span class=\"more\">Ver la biblioteca →</span>",
   "kind": "html",
   "pages": [
    "index.html"
@@ -841,6 +853,7 @@
   "kind": "html",
   "pages": [
    "index.html",
+   "recursos.html",
    "articulos/geopolitica-estandarizacion-datos.html"
   ]
  },
@@ -850,6 +863,7 @@
   "kind": "html",
   "pages": [
    "index.html",
+   "recursos.html",
    "articulos/geopolitica-estandarizacion-datos.html"
   ]
  },
@@ -859,6 +873,7 @@
   "kind": "html",
   "pages": [
    "index.html",
+   "recursos.html",
    "articulos/geopolitica-estandarizacion-datos.html"
   ]
  },
@@ -900,6 +915,7 @@
   "kind": "jsonld",
   "pages": [
    "index.html",
+   "recursos.html",
    "articulos/geopolitica-estandarizacion-datos.html"
   ]
  },
@@ -917,6 +933,7 @@
   "kind": "jsonld",
   "pages": [
    "index.html",
+   "recursos.html",
    "articulos/geopolitica-estandarizacion-datos.html"
   ]
  },
@@ -934,6 +951,7 @@
   "kind": "attr",
   "pages": [
    "index.html",
+   "recursos.html",
    "articulos/geopolitica-estandarizacion-datos.html"
   ]
  },
@@ -979,11 +997,11 @@
   ]
  },
  {
-  "id": "6cf4775250",
-  "src": "Geopolítica de la estandarización de datos en Europa | Software in a Box",
+  "id": "8228c43fa9",
+  "src": "Los 5 activos de IDSA: artículos, vídeos e investigación | Espacios de datos",
   "kind": "html",
   "pages": [
-   "articulos/geopolitica-estandarizacion-datos.html"
+   "recursos.html"
   ]
  },
  {
@@ -991,12 +1009,1665 @@
   "src": "<a href=\"/#que-es\">Qué es</a><a href=\"/#tecnologia\">Tecnología</a><a href=\"/#recursos\">Artículos y vídeos</a><a class=\"btn btn-teal\" href=\"/#contacto\">Hablemos</a>",
   "kind": "html",
   "pages": [
+   "recursos.html",
    "articulos/geopolitica-estandarizacion-datos.html"
   ]
  },
  {
   "id": "f15e0848d7",
   "src": "<a href=\"/\">Espacios de datos</a> › <a href=\"/#recursos\">Artículos y vídeos</a>",
+  "kind": "html",
+  "pages": [
+   "recursos.html",
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "d04c6aa9e8",
+  "src": "Artículos y vídeos de interés",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "3654071df9",
+  "src": "Los 5 activos de IDSA: la base técnica y de gobierno de los espacios de datos",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "885ae61673",
+  "src": "Hemos reunido la documentación oficial, los vídeos, los artículos científicos y las normas que conviene conocer para diseñar, operar o certificar un espacio de datos. Están ordenados por cada uno de los cinco activos de la International Data Spaces Association.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "2fdcf93f8f",
+  "src": "Software in a Box · Selección actualizada el 11 de noviembre de 2026 · Recursos en inglés salvo indicación",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "ac3003d8e9",
+  "src": "<span>Ir a:</span><a href=\"#ram\">IDS-RAM</a><a href=\"#dsp\">Dataspace Protocol</a><a href=\"#rulebook\">Rulebook</a><a href=\"#dsbok\">Body of Knowledge</a><a href=\"#cert\">Certification</a><a href=\"#investigacion\">Investigación</a><a href=\"#normas\">Normas</a>",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "c2b77c931a",
+  "src": "IDSA",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "7ab407e0f8",
+  "src": "Qué son los «5 IDSA core assets»",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "61e330434c",
+  "src": "La International Data Spaces Association (IDSA) resume su trabajo en cinco activos. Sus miembros los aplican en más de 200 espacios de datos, como EONA-X o Catena-X. La experiencia real vuelve a IDSA en forma de casos de uso y mejoras, y sus expertos la llevan a ISO/IEC y a CEN/CENELEC, donde se convierte en norma.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "7acf546641",
+  "src": "<a class=\"chip\" href=\"#ram\"><b>IDS Reference Architecture Model</b><span>El modelo de referencia: roles, componentes y capas.</span></a><a class=\"chip\" href=\"#dsp\"><b>Dataspace Protocol</b><span>El idioma común de los conectores.</span></a><a class=\"chip\" href=\"#rulebook\"><b>IDSA Rulebook</b><span>Las reglas para crear y gobernar un espacio de datos.</span></a><a class=\"chip\" href=\"#dsbok\"><b>Data Space Body of Knowledge</b><span>El conocimiento común para formar y certificar profesionales.</span></a><a class=\"chip\" href=\"#cert\"><b>IDS Certification</b><span>La prueba de que un conector cumple y es interoperable.</span></a>",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "11492fd4bb",
+  "src": "<b>Geopolitics of ICT Standardisation</b><small>StandICT_eu · la diapositiva de IDSA, en el minuto 1:01:48</small>",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "4b164ef256",
+  "src": "Al pulsar, el vídeo se carga desde YouTube en modo de privacidad mejorada y empieza en la intervención de Silvia Castellvi (IDSA). En esta misma sección tiene nuestro <a href=\"/articulos/geopolitica-estandarizacion-datos\">resumen comentado del seminario</a>.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "3c69c99f33",
+  "src": "Activo 1 de 5",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "c21e535e79",
+  "src": "IDS Reference Architecture Model (IDS-RAM)",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "889551938d",
+  "src": "Define los roles, los componentes (conector, catálogo, proveedor de identidad, vocabularios) y las capas del espacio de datos, con tres perspectivas transversales: seguridad, certificación y gobernanza. La versión estable es la 4; la 5 está en borrador.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "220aafa01d",
+  "src": "Artículos y documentación",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "60f92f2f9b",
+  "src": "Documentación",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "de2e139c67",
+  "src": "IDS-RAM 4",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "080408efc4",
+  "src": "IDSA · GitBook",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "0b8233903a",
+  "src": "Texto completo de la versión 4: capas de negocio, funcional, de información, de procesos y de sistema.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "7b2632059c",
+  "src": "IDS-RAM in the IDSA Knowledge Base",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "2698b6724b",
+  "src": "IDSA · Knowledge Base",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "8cc70bbdec",
+  "src": "La nueva edición, planteada como un espacio de diseño con el Dataspace Protocol y el Decentralized Claims Protocol en el centro.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "988a79825f",
+  "src": "IDS-RAM 5 working draft",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "e1dffce048",
+  "src": "Borrador de la próxima versión, alineada con el Dataspace Protocol, el Rulebook y el blueprint del DSSC.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "efd10bf2e7",
+  "src": "Artículo",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "653b64d6b2",
+  "src": "Understanding the IDS Reference Architecture Model",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "04dcec09ae",
+  "src": "IDSA · Blog · 2024",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "809c903685",
+  "src": "Explicación divulgativa de las capas del modelo y de cómo lo mantiene el grupo de trabajo de arquitectura.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "147cb724a0",
+  "src": "Vídeos",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "19379b90be",
+  "src": "IDSA Tech Talk: IDS-RAM and IDSA Rulebook",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "a45fce105b",
+  "src": "YouTube · IDSA · 2026",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "3e31be3c58",
+  "src": "Cómo se complementan el modelo de referencia y el Rulebook. Es la sesión más reciente de esta selección.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "4c1de55eab",
+  "src": "Webinar on the IDS Reference Architecture Model",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "0bdac172fd",
+  "src": "YouTube · IDSA · 2024",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "c8b18adc08",
+  "src": "Recorrido completo por el modelo de referencia, organizado por IDSA.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "17aed49f2b",
+  "src": "IDSA Tech Talk: the IDS Reference Architecture Model",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "da612306b6",
+  "src": "YouTube · IDSA · 2023",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "bbff723d1c",
+  "src": "El modelo de referencia como plano de los ecosistemas de datos soberanos.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "bdad88b578",
+  "src": "IDSA Tech Talk: the IDS Information Model",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "758aab4c83",
+  "src": "El modelo de información que permite describir datos y contratos de forma interoperable.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "23d91ee110",
+  "src": "IDSA Online Seminar #4: Reference Architecture Model",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "391eff5677",
+  "src": "YouTube · Fraunhofer IAIS · 2018",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "b23c66e0d8",
+  "src": "Introducción clásica al modelo desde el punto de vista de negocio. Útil como primera toma de contacto.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "47f5a727b4",
+  "src": "Activo 2 de 5",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "34c58a9f93",
+  "src": "Dataspace Protocol (DSP)",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "f7adbedd3a",
+  "src": "Especifica cómo se comunican los conectores: publicación del catálogo (DCAT), negociación de contratos con políticas ODRL y proceso de transferencia. Desde 2024 lo gobierna el Eclipse Dataspace Working Group; la versión 2025-1 es estable, tiene kit de pruebas de compatibilidad y avanza en ISO como ISO/IEC 26450.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "6062c82e12",
+  "src": "Dataspace Protocol 2025-1 specification",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "3d4dad6395",
+  "src": "Eclipse Foundation",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "a620122357",
+  "src": "La especificación estable: catálogo, negociación de contratos y transferencia sobre HTTPS.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "9a29c09579",
+  "src": "Dataspace Protocol",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "756ac5bd0f",
+  "src": "Qué es, cómo se relaciona con el Rulebook y cuál es su camino hacia norma ISO.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "436003cb7f",
+  "src": "The Dataspace Protocol: ready, tested and almost official",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "be764d7291",
+  "src": "IDSA · Blog · 2025",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "eafe7f93bc",
+  "src": "Las pruebas comunitarias con el kit de compatibilidad (TCK) antes de la versión 1.0.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "ad3f0688c8",
+  "src": "Dataspace Protocol nears first official release",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "38709aa787",
+  "src": "Estado del kit de pruebas y del Decentralized Claims Protocol, y pruebas de interoperabilidad entre el conector Eclipse (EDC) y el de TNO.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "540e54034c",
+  "src": "Eclipse Dataspace Protocol",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "3bb822328e",
+  "src": "Eclipse Newsroom · 2024",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "7549075c4c",
+  "src": "Por qué el protocolo pasó a gobernarse en Eclipse y qué especificaciones lo componen.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "0eb1b00928",
+  "src": "Data Space Connector Report",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "328945a8d2",
+  "src": "IDSA · 2025",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "95414e7a9f",
+  "src": "Panorama de los conectores compatibles con el protocolo y de los resultados de las pruebas de compatibilidad.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "50ff8c90c3",
+  "src": "IDSA Tech Talk: the Dataspace Protocol",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "e5ccdb017d",
+  "src": "YouTube · IDSA · 2025",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "e221937f8f",
+  "src": "El papel del protocolo en la soberanía del dato, la interoperabilidad y la adopción industrial.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "7184677174",
+  "src": "IDSA Tech Talk: secure and controlled data sharing with the DSP",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "0ad0c6248f",
+  "src": "Cómo ordena el protocolo el intercambio controlado de datos entre organizaciones.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "0258bad3b3",
+  "src": "IDSA Ecosystem Building Call: introduction to the Dataspace Protocol",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "7d2668a226",
+  "src": "Introducción al protocolo al principio y novedades sobre certificación a partir del minuto 42.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "4afb8f096c",
+  "src": "IDSA Tech Talk: the Prometheus-X connector",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "227c71f700",
+  "src": "Un conector para compartir datos personales construido sobre el Dataspace Protocol.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "9fdfaec215",
+  "src": "Activo 3 de 5",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "682db1ae9f",
+  "src": "IDSA Rulebook",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "d157a119ff",
+  "src": "Reúne los requisitos funcionales, técnicos, operativos y legales para crear y operar un espacio de datos. Distingue lo obligatorio de lo opcional e introduce la autoridad de gobierno del espacio de datos. La edición 2026-1 es la referencia vigente.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "0964b07bf8",
+  "src": "IDSA Rulebook 2026-1: structural clarifications for operational data spaces",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "61ab6d065c",
+  "src": "IDSA · Blog · 2026",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "cf6d947396",
+  "src": "Qué cambia en la edición 2026-1.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "da431730fc",
+  "src": "IDSA Rulebook (PDF, July 2026)",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "806844bf5d",
+  "src": "IDSA · DOI 10.5281/zenodo.21704653",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "be84a2f447",
+  "src": "Versión completa y citable: roles, autoridad de gobierno, requisitos funcionales e interoperabilidad.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "89da041e29",
+  "src": "IDSA Rulebook in the Knowledge Base",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "7c8b94087d",
+  "src": "Versión navegable del Rulebook, que se actualiza de forma continua.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "ff95422deb",
+  "src": "Para qué sirve: cómo montar un espacio de datos, qué es obligatorio y cómo hacerlo fiable.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "f94f66dd43",
+  "src": "Build trustworthy data spaces with the new IDSA Rulebook",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "fc7f1b4ce0",
+  "src": "IDSA · Blog · 2023",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "3e66deb345",
+  "src": "Presentación de la versión 2.0 y de la figura de la autoridad de gobierno del espacio de datos.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "da97275e1c",
+  "src": "IDSA Tech Talk: the IDSA Rulebook",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "74a9f291a8",
+  "src": "Las reglas obligatorias y opcionales para construir espacios de datos.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "a08971cf9f",
+  "src": "IDSA Tech Talk: the IDSA Rule Book",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "eb61f98797",
+  "src": "Los objetivos del Rulebook y los requisitos mínimos de un espacio de datos.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "3f08479035",
+  "src": "IDSA Portfolio Day: Rule Book, certification and components",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "8493bbf2f6",
+  "src": "YouTube · IDSA · 2020",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "34e576ec75",
+  "src": "Visión conjunta del Rulebook, la certificación y los componentes, con la participación de grandes empresas usuarias.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "d9bbce7266",
+  "src": "Activo 4 de 5",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "1fbec7a4b4",
+  "src": "Data Space Body of Knowledge (DSBoK)",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "e3f52f5bba",
+  "src": "Es el conocimiento común en el que se apoya el programa de cualificación profesional de IDSA, desde el nivel Fundamentals hasta los perfiles de consultor de negocio y técnico. Lo imparten proveedores de formación autorizados; en España, SQS, con examen gestionado por BAIDATA.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "439cbd7ca7",
+  "src": "IDSA Knowledge Base",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "cc8e5ae053",
+  "src": "Base de conocimiento común del ecosistema, con descarga en PDF para leer sin conexión.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "f8bfc6128e",
+  "src": "Data Space Professional Qualification Programme",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "e3b0c956d4",
+  "src": "Niveles de cualificación y proveedores de formación autorizados.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "e1046d45e1",
+  "src": "The training catalogue and the Data Space Body of Knowledge",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "a59a624e00",
+  "src": "IDSA · Blog",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "44951ad07c",
+  "src": "Entrevista sobre cómo el Body of Knowledge alinea los cursos de todos los proveedores.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "20ad190dbc",
+  "src": "Now is the perfect time for data space training",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "b2ca732a81",
+  "src": "Por qué conviene formarse ahora y cómo se estructura el programa.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "61d2672640",
+  "src": "Formación",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "8b712f1943",
+  "src": "Data Space Fundamentals",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "cfc8850c49",
+  "src": "SQS · Madrid",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "c8e6a9b1fb",
+  "src": "Curso de entrada al programa en España. El examen lo gestiona BAIDATA.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "0688a36d66",
+  "src": "IDSA Q&A Session: your essential guide to data spaces",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "1c3f20df35",
+  "src": "YouTube · IDSA",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "59f0194a98",
+  "src": "Preguntas y respuestas sobre cómo participar y formarse en el ecosistema de IDSA. No hay un vídeo dedicado solo al Body of Knowledge: su contenido se imparte en los cursos autorizados.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "278a948f86",
+  "src": "Activo 5 de 5",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "99fa9e40e9",
+  "src": "IDS Certification",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "26447c28d8",
+  "src": "Certifica conectores y entornos operativos por su funcionalidad, interoperabilidad y seguridad, con referencia a la norma IEC 62443. Tiene niveles de garantía, desde una autoevaluación con lista de comprobación, y con el Dataspace Protocol 2025-1 incorpora pruebas automáticas de interoperabilidad.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "10d847b3d2",
+  "src": "El esquema de certificación de componentes y entornos operativos.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "7b83f4ed6e",
+  "src": "Entrusting data to IDS",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "506365c2fb",
+  "src": "El proceso, los organismos de evaluación y los conectores ya certificados.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "e75c2de324",
+  "src": "IDS Certification and data connector interoperability",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "01da31c8ea",
+  "src": "El nivel de garantía 1 (autoevaluación con lista de comprobación) y el banco de pruebas de referencia.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "52f49bc255",
+  "src": "Huawei Exchange Data Space Connector earns IDS Certification",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "a7261a9e19",
+  "src": "IDSA · 2024",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "1fd18765b1",
+  "src": "Un caso real, evaluado frente al modelo de referencia y la norma IEC 62443.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "4557ec2f9e",
+  "src": "IDS Certification for the GATE Dataspace Connector",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "3090e48ed1",
+  "src": "La experiencia de un centro de investigación y la evolución hacia pruebas automáticas del protocolo.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "19e8fa3e96",
+  "src": "IDS Certification Explained",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "8b69988b3a",
+  "src": "IDSA · 2019 · PDF",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "0d26cd1a82",
+  "src": "Explicación breve del esquema original.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "2679540a19",
+  "src": "Deep-dive into data spaces: choosing the right connector",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "21184a380d",
+  "src": "YouTube · IDSA · EGI 2024",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "c807603bc3",
+  "src": "Taller para comparar conectores y elegir el adecuado.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "ebbf23324b",
+  "src": "IDSA Update Session: IDS Connector and certification",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "7ff8072e35",
+  "src": "El conector como puerta de entrada al espacio de datos y por qué debe estar certificado.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "1966b71faf",
+  "src": "IDS Certification: creating trust, enabling business cases",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "76dd30eb35",
+  "src": "Fraunhofer AISEC e IDSA explican cómo la certificación genera confianza.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "ec653fafc0",
+  "src": "How to get IDS certified",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "8155824bb0",
+  "src": "El camino para certificarse y entrar como socio en un ecosistema de datos.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "186cab2ee5",
+  "src": "Integration Test Camp",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "e85cba794e",
+  "src": "YouTube · SQS · 2020",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "319ffdefb2",
+  "src": "Pruebas de interoperabilidad entre componentes IDS.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "9ab1c4e488",
+  "src": "Investigación",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "19a0db9962",
+  "src": "Artículos científicos y libros en acceso abierto",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "90cd3a55f5",
+  "src": "La literatura académica que explica el origen de estos activos y evalúa cómo funcionan en la práctica. No hemos encontrado trabajos científicos dedicados en exclusiva al Body of Knowledge.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "cfd3cbc0ba",
+  "src": "Libro",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "2350fdb747",
+  "src": "Designing Data Spaces: The Ecosystem Approach to Competitive Advantage",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "28cc9d14a4",
+  "src": "Otto, ten Hompel, Wrobel (eds.) · Springer · 2022 · Open Access",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "4482fb4994",
+  "src": "Obra de referencia: fundamentos, tecnologías (incluido el control de uso), casos y soluciones.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "2c0793af7d",
+  "src": "Data Spaces: Design, Deployment and Future Directions",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "cbc614080a",
+  "src": "Curry, Scerri, Tuikka (eds.) · Springer · 2022 · Open Access",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "c54f5c1bf0",
+  "src": "Diseño organizativo, gobierno de datos y despliegues reales por sectores.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "0794a50694",
+  "src": "Data Sovereignty and Data Space Ecosystems",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "432cc15bfc",
+  "src": "Jarke, Otto, Ram · Business &amp; Information Systems Engineering · 2019",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "886319b397",
+  "src": "Origen de los ecosistemas de datos impulsados por alianzas y del modelo de referencia.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "084b18c464",
+  "src": "International Data Spaces: Reference architecture for the digitization of industries",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "157aaf6f35",
+  "src": "Otto, ten Hompel, Wrobel · Springer Vieweg · 2019",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "0e149c716c",
+  "src": "Capítulo que presenta la arquitectura y sus primeros casos de uso.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "08fcb93680",
+  "src": "A Survey of Dataspace Connector Implementations",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "bf60a9a1f3",
+  "src": "Dam, Klausner, Neumaier, Priebe · ITADATA · 2023",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "24852108e9",
+  "src": "Compara cuatro conectores compatibles con IDS y señala carencias de documentación.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "1175acc962",
+  "src": "A Service Architecture for Dataspaces",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "4e3f70bded",
+  "src": "Arnold et al. · arXiv · 2025",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "00bdc4ddaf",
+  "src": "Propone ofrecer servicios, y no solo datos, a través de conectores que hablan el Dataspace Protocol.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "448e25a46a",
+  "src": "Towards Scalable Data Space Interoperability and Federation",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "71184f594a",
+  "src": "Bastiaansen et al. · TNO · 2024",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "4e6b1791f8",
+  "src": "Documento de debate sobre cómo federar muchos espacios de datos apoyándose en el protocolo.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "2c524bd65c",
+  "src": "What are data spaces? Systematic survey and future outlook",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "5519bfb733",
+  "src": "Bacco, Kocian, Chessa, Crivello, Barsocchi · Data in Brief · 2024",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "950603c531",
+  "src": "Revisión sistemática de componentes, especificaciones e implementaciones maduras.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "7e5e341d4f",
+  "src": "The Symphony of Orchestrated Participatory Data Space Governance: A Systematic Review",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "c78b561095",
+  "src": "Schurig, Kari, Fürstenau · ECIS · 2024",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "ee2ee93de1",
+  "src": "Revisión de 874 publicaciones que describe el gobierno de los espacios de datos en siete dimensiones.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "a6516bf3ea",
+  "src": "Scopes of Governance in Data Spaces",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "c0edcd44c3",
+  "src": "Hutterer, Krumay · ACIS · 2024",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "0ae1f8a5a8",
+  "src": "Distingue gobierno del ecosistema, tecnológico y operativo a partir de 59 estudios.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "5c589ab2fc",
+  "src": "Data Spaces in Manufacturing and Supply Chains: A Review and Insights from European Initiatives",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "6d48f201a9",
+  "src": "Gabellini et al. · Applied Sciences · 2025",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "f0870fb66d",
+  "src": "Revisión de los espacios de datos en la industria y la cadena de suministro.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "de6ca5b9a6",
+  "src": "Normalización",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "3fa5e7fd3c",
+  "src": "De los activos de IDSA a las normas",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "e9dc34d8ff",
+  "src": "El modelo de referencia, el Rulebook y el Dataspace Protocol alimentan las normas ISO/IEC 20151, 26450 y 26451 y el trabajo del comité CEN-CENELEC JTC 25, que ya ha publicado la EN 18235-1:2026 sobre transacciones de datos confiables.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "2c5c931ceb",
+  "src": "Standardization is shaping the future of data spaces",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "4775d270dd",
+  "src": "Cómo pasan los activos de IDSA a ISO/IEC 20151, 26450 (Dataspace Protocol) y 26451 (Decentralized Claims Protocol).",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "280079b10c",
+  "src": "Norma",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "518c362832",
+  "src": "EN 18235-1:2026 Trusted data transactions",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "69bd41dd96",
+  "src": "CEN-CENELEC · 2026",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "691457a0b0",
+  "src": "Primera norma europea del JTC 25: terminología, conceptos y mecanismos de las transacciones de datos confiables.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "de6938e9ad",
+  "src": "Global Standards for Trusted Data Sharing",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "6cb9328a10",
+  "src": "IDSA · 2025 · PDF",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "6ff60732c4",
+  "src": "Folleto de IDSA que resume sus activos y su relación con las normas.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "42a7e98d39",
+  "src": "Nuestro artículo",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "68320eba1e",
+  "src": "Software in a Box · 2026",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "a48fee87b4",
+  "src": "Nuestro resumen comentado del seminario de StandICT_eu en el que IDSA presentó estos cinco activos.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "f409539ffa",
+  "src": "¿Su espacio de datos ya habla estos estándares?",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "2bc84e253a",
+  "src": "Diseñamos y desplegamos espacios de datos con conectores Eclipse, el Dataspace Protocol, contratos ODRL y credenciales verificables. Es la arquitectura que aplicamos en Global Data Care, PROCUREDATA y EcoDataNet.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "c44748c4b7",
+  "src": "Hablemos de su espacio de datos",
+  "kind": "html",
+  "pages": [
+   "recursos.html",
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "916b509038",
+  "src": "Selección de Software in a Box. Los enlaces llevan a las fuentes originales; los títulos se mantienen en su idioma. Si echa en falta algún recurso, escríbanos.",
+  "kind": "html",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "8e2ae75532",
+  "src": "Biblioteca seleccionada sobre los 5 activos de IDSA: IDS-RAM, Dataspace Protocol, IDSA Rulebook, Data Space Body of Knowledge e IDS Certification. Documentación, vídeos, artículos científicos y normas.",
+  "kind": "attr",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "c360d3cc16",
+  "src": "Los 5 activos de IDSA: artículos, vídeos e investigación",
+  "kind": "attr",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "651042c05d",
+  "src": "Más de 50 recursos sobre la base técnica y de gobierno de los espacios de datos, de la arquitectura de referencia a las normas ISO y CEN.",
+  "kind": "attr",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "4647b1e421",
+  "src": "Espacios de datos · Software in a Box",
+  "kind": "jsonld",
+  "pages": [
+   "recursos.html",
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "b10265a216",
+  "src": "IDS Reference Architecture Model",
+  "kind": "jsonld",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "0f7163d25f",
+  "src": "Data Space Body of Knowledge",
+  "kind": "jsonld",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "a37f502ee2",
+  "src": "Biblioteca IDSA",
+  "kind": "jsonld",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "4373399b0e",
+  "src": "Ruta",
+  "kind": "attr",
+  "pages": [
+   "recursos.html",
+   "articulos/geopolitica-estandarizacion-datos.html"
+  ]
+ },
+ {
+  "id": "47c892ff41",
+  "src": "Reproducir el seminario de StandICT_eu desde la diapositiva de IDSA",
+  "kind": "attr",
+  "pages": [
+   "recursos.html"
+  ]
+ },
+ {
+  "id": "6cf4775250",
+  "src": "Geopolítica de la estandarización de datos en Europa | Software in a Box",
   "kind": "html",
   "pages": [
    "articulos/geopolitica-estandarizacion-datos.html"
@@ -1323,14 +2994,6 @@
   ]
  },
  {
-  "id": "c44748c4b7",
-  "src": "Hablemos de su espacio de datos",
-  "kind": "html",
-  "pages": [
-   "articulos/geopolitica-estandarizacion-datos.html"
-  ]
- },
- {
   "id": "ea913822bc",
   "src": "Fuente: seminario web «Geopolitics of ICT Standardisation with a focus on the evolving landscape of data standardisation», organizado por StandICT_eu (octubre de 2026). Este texto es un resumen y comentario de Software in a Box; para las palabras exactas de cada ponente, consulte la grabación.",
   "kind": "html",
@@ -1406,22 +3069,6 @@
   "id": "7a0eca5865",
   "src": "Geopolítica de los estándares de datos",
   "kind": "jsonld",
-  "pages": [
-   "articulos/geopolitica-estandarizacion-datos.html"
-  ]
- },
- {
-  "id": "4647b1e421",
-  "src": "Espacios de datos · Software in a Box",
-  "kind": "attr",
-  "pages": [
-   "articulos/geopolitica-estandarizacion-datos.html"
-  ]
- },
- {
-  "id": "4373399b0e",
-  "src": "Ruta",
-  "kind": "attr",
   "pages": [
    "articulos/geopolitica-estandarizacion-datos.html"
   ]
