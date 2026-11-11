@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fødererede datarum · Gaia-X og EHDS | Software in a Box</title>
+<meta property="og:image" content="https://datos.softwareinabox.eu/assets/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:image" content="https://datos.softwareinabox.eu/assets/og.jpg">
+<meta name="twitter:card" content="summary_large_image">
+
+<meta name="description" content="Software in a Box designer og implementerer fødererede datarum i overensstemmelse med Gaia-X og EHDS: Eclipse EDC- og Pontus-X-konnektorer, ODRL-kontrakter, verificerbare legitimationsoplysninger og AI-træning uden at flytte data. Første vertikal: tandklinikker med AI på Microsoft Azure – nu med et partnerprogram for Danmark.">
+<link rel="canonical" href="https://datos.softwareinabox.eu/da/">
+<meta property="og:type" content="website"><meta property="og:site_name" content="Software in a Box">
+<meta property="og:title" content="Fødererede datarum · Software in a Box">
+<meta property="og:description" content="Del data uden at miste kontrollen: konnektorer, ODRL-kontrakter, Gaia-X-legitimation og EHDS.">
+<meta property="og:url" content="https://datos.softwareinabox.eu/da/">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230F4D55'/%3E%3Ccircle cx='32' cy='32' r='8' fill='none' stroke='%23C9A227' stroke-width='4'/%3E%3Cpath d='M14 14l12 12M50 14 38 26M14 50l12-12M50 50 38 38' stroke='%23C9A227' stroke-width='4'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="https://www.softwareinabox.eu/assets/fonts.css">
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Service",
+   "@id": "https://datos.softwareinabox.eu/da/#service",
+   "name": "Fødererede datarum",
+   "url": "https://datos.softwareinabox.eu/da/",
+   "provider": {
+    "@type": "Organization",
+    "@id": "https://www.softwareinabox.eu/#organization",
+    "name": "Software in a Box",
+    "url": "https://www.softwareinabox.eu/da/"
+   },
+   "areaServed": "EU",
+   "serviceType": "Design, implementering og drift af fødererede datarum i overensstemmelse med Gaia-X og EHDS"
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Software in a Box",
+     "item": "https://www.softwareinabox.eu/da/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Datarum",
+     "item": "https://datos.softwareinabox.eu/da/"
+    }
+   ]
+  }
+ ]
+}
+</script>
+<style>
+:root{--navy:#0B2545;--gold:#C9A227;--gold-t:#8A6D0B;--teal:#1B998B;--dteal:#137A6F;--deep:#0F4D55;--cream:#F4F8F7;--ink:#1E2633;--mute:#5B6573;--line:#E3E6EC}
+*{box-sizing:border-box;margin:0;padding:0}html{scroll-behavior:smooth}
+body{font-family:'Hanken Grotesk',system-ui,sans-serif;color:var(--ink);line-height:1.55;-webkit-font-smoothing:antialiased}
+h1,h2,h3{font-family:'Montserrat',sans-serif;color:var(--navy);letter-spacing:-.015em}
+a{color:inherit}.wrap{max-width:1180px;margin:0 auto;padding:0 28px}
+header{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.93);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.nav{display:flex;align-items:center;justify-content:space-between;height:66px}
+.brand{display:flex;align-items:center;gap:12px;text-decoration:none}
+.brand b{font-family:'Montserrat';font-weight:800;font-size:17px;color:var(--navy)}
+.brand small{display:block;font-size:12px;color:var(--mute);font-weight:600}
+.menu{display:flex;gap:24px;font-weight:600;font-size:15px;align-items:center}.menu a{text-decoration:none}.menu a:hover{color:var(--teal)}
+.btn{display:inline-flex;align-items:center;padding:12px 20px;border-radius:10px;font-weight:700;font-size:15px;text-decoration:none;border:2px solid transparent}
+.btn-gold{background:var(--gold);color:var(--navy)}.btn-line{border-color:rgba(255,255,255,.45);color:#fff}.btn-teal{background:var(--teal);color:#fff}
+.eyebrow{font-family:'Montserrat';font-weight:700;font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);display:flex;align-items:center;gap:12px}
+.eyebrow:before{content:'';width:28px;height:3px;background:var(--gold);border-radius:2px}.eyebrow.dk{color:var(--gold-t)}
+.hero{background:radial-gradient(900px 420px at 90% 0%,#1B998B55,transparent 60%),linear-gradient(160deg,#0B2545,#0F4D55);color:#fff}
+.hero .wrap{display:grid;grid-template-columns:1.05fr .95fr;gap:40px;align-items:center;padding:80px 28px}
+.hero h1{color:#fff;font-size:clamp(34px,4.4vw,54px);line-height:1.07;font-weight:800;margin:16px 0}
+.hero h1 em{font-style:normal;color:var(--gold)}.hero p{font-size:19px;color:#C9D3E0;max-width:560px}
+.ctas{display:flex;gap:12px;margin-top:28px;flex-wrap:wrap}
+section{padding:84px 0}.head{max-width:760px;margin-bottom:40px}.head h2{font-size:clamp(28px,3.1vw,40px);line-height:1.12;margin-top:12px}.head p{font-size:18px;color:var(--mute);margin-top:12px}
+.grid4{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}.grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}.grid2{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.card{border:1px solid var(--line);border-radius:16px;padding:22px;background:#fff;box-shadow:0 4px 18px rgba(11,37,69,.05)}
+.card h3{font-size:18px;margin:12px 0 6px}.card p{font-size:15.5px;color:var(--mute)}
+.ic{width:46px;height:46px;border-radius:12px;display:flex;align-items:center;justify-content:center;background:#DDF1EE}
+.ic svg{width:24px;height:24px;stroke:var(--dteal)}
+.num{font-family:'Montserrat';font-weight:800;color:var(--teal);font-size:14px;letter-spacing:.1em}
+.flow{display:grid;grid-template-columns:repeat(6,1fr);gap:10px;counter-reset:s}
+.step{background:#fff;border-radius:14px;padding:18px 14px;text-align:center;border:1px solid var(--line);position:relative}
+.step b{display:block;font-family:'Montserrat';color:var(--navy);margin:8px 0 4px;font-size:16px}.step span{font-size:13.5px;color:var(--mute)}
+.step .c{width:36px;height:36px;border-radius:50%;margin:0 auto;background:var(--navy);color:var(--gold);font-weight:800;font-family:'Montserrat';display:flex;align-items:center;justify-content:center}
+.soft{background:var(--cream)}
+.fam{border-radius:18px;padding:26px}.fam h3{font-size:21px}.fam .sub{font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;margin:4px 0 14px}
+.fam ul{list-style:none;display:flex;flex-direction:column;gap:9px}.fam li{background:#fff;border-radius:10px;padding:10px 12px;font-size:15px}
+.fam li b{display:block;font-size:15px}.fam li span{font-size:13.5px;color:var(--mute)}
+.dental{background:var(--navy);color:#fff}.dental h2{color:#fff}.dental .head p{color:#AAB7C8}
+.dgrid{display:grid;grid-template-columns:1.1fr .9fr;gap:30px;align-items:start}
+.dcard{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.15);border-radius:16px;padding:22px}
+.dcard h3{color:#fff;font-size:18px;margin-bottom:8px}.dcard p,.dcard li{color:#C9D3E0;font-size:15.5px}.dcard ul{padding-left:18px;display:flex;flex-direction:column;gap:6px}
+.tl{display:flex;flex-direction:column;gap:12px}.tl div{display:flex;gap:14px;align-items:baseline}.tl b{font-family:'Montserrat';color:var(--gold);min-width:104px;font-size:15px}.tl span{color:#C9D3E0;font-size:15px}
+.kpi{display:flex;gap:26px;margin-top:22px;flex-wrap:wrap}.kpi b{display:block;font-family:'Montserrat';font-size:28px;color:#fff}.kpi span{font-size:13.5px;color:#AAB7C8}
+.chips{display:flex;flex-wrap:wrap;gap:10px;margin-top:24px}.chip{font-size:14px;font-weight:600;padding:8px 14px;border-radius:999px;background:#EEF2F7;color:var(--navy)}
+.cta{background:linear-gradient(160deg,#0F4D55,#0B2545);color:#fff;text-align:center}.cta h2{color:#fff;font-size:clamp(28px,3.2vw,40px)}.cta p{color:#C9D3E0;font-size:18px;margin:12px auto 0;max-width:640px}
+footer{background:#081A33;color:#AAB7C8;padding:34px 0;font-size:14.5px}.ft{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}.ft a{color:#fff;text-decoration:none;margin-right:16px}
+@media(max-width:980px){.hero .wrap,.grid2,.dgrid{grid-template-columns:1fr}.grid4,.grid3{grid-template-columns:1fr 1fr}.flow{grid-template-columns:repeat(2,1fr)}.menu a:not(.btn){display:none}section{padding:62px 0}}
+@media(max-width:560px){.grid4,.grid3{grid-template-columns:1fr}}
+.cform{max-width:620px;margin:30px auto 0;display:grid;grid-template-columns:1fr 1fr;gap:12px;text-align:left}
+.cform input,.cform select,.cform textarea{width:100%;font:inherit;font-size:15px;padding:12px 14px;border-radius:10px;border:1px solid rgba(255,255,255,.28);background:rgba(255,255,255,.96);color:#1E2633}
+.cform textarea,.cform .full{grid-column:1/-1}.cform textarea{min-height:96px;resize:vertical}
+.cform .ok{display:flex;gap:10px;align-items:flex-start;font-size:13.5px;line-height:1.5;color:#DCE3EC}.cform .ok input{width:18px;height:18px;margin-top:2px;flex:none;accent-color:#C9A227}.cform .ok a{color:#C9A227;font-weight:600}
+.cform button{grid-column:1/-1;justify-content:center;border:0;cursor:pointer;font-family:inherit}
+.sr{position:absolute;left:-999px}
+.ft-legal{display:flex;gap:18px;flex-wrap:wrap;margin-top:14px;font-size:13px}.ft-legal a{color:#C9D3E0!important}
+@media(max-width:640px){.cform{grid-template-columns:1fr}}
+:focus-visible{outline:3px solid #C9A227;outline-offset:2px}
+.res{display:grid;grid-template-columns:1.15fr .85fr;gap:24px;align-items:stretch}
+.rcard{border:1px solid var(--line);border-radius:16px;background:#fff;box-shadow:0 4px 18px rgba(11,37,69,.05);overflow:hidden;display:flex;flex-direction:column}
+.rcard .rb{padding:20px 22px 22px;display:flex;flex-direction:column;gap:8px;flex:1}.rcard h3{font-size:19px;line-height:1.3}.rcard p{font-size:15.5px;color:var(--mute)}
+.rtag{font-family:'Montserrat';font-weight:800;font-size:12.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--teal)}
+.rcard .more{margin-top:auto;font-weight:700;color:var(--dteal);text-decoration:none}.rcard .more:hover{text-decoration:underline}
+.rart{background:linear-gradient(160deg,#0B2545,#0F4D55);height:150px;display:flex;align-items:flex-end;padding:18px 22px}
+.rart span{font-family:'Montserrat';font-weight:800;color:#fff;font-size:20px;line-height:1.2}.rart em{font-style:normal;color:var(--gold)}
+.yt{position:relative;aspect-ratio:16/9;background:radial-gradient(600px 300px at 80% 0%,#1B998B66,transparent 60%),linear-gradient(160deg,#0B2545,#0F4D55)}
+.yt iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.yt-play{position:absolute;inset:0;width:100%;border:0;background:none;cursor:pointer;color:#fff;font:inherit;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;padding:20px;text-align:center}
+.yt-ic{flex:none;width:66px;height:66px;border-radius:50%;background:var(--gold);display:flex;align-items:center;justify-content:center;transition:transform .2s}.yt-play:hover .yt-ic{transform:scale(1.07)}
+.yt-t b{display:block;font-family:'Montserrat';font-size:19px;line-height:1.25}.yt-t small{display:block;color:#C9D3E0;font-size:13.5px;margin-top:6px}
+.rlib{display:flex;flex-direction:column;gap:6px;margin-top:24px;padding:24px 26px;border-radius:16px;text-decoration:none;color:#fff;background:radial-gradient(700px 260px at 95% 0%,#1B998B66,transparent 60%),linear-gradient(160deg,#0B2545,#0F4D55);box-shadow:0 10px 30px rgba(11,37,69,.18)}.rlib .rtag{color:var(--gold)}.rlib b{font-family:'Montserrat';font-size:21px;line-height:1.25}.rlib .rl{color:#C9D3E0;font-size:15.5px;max-width:860px}.rlib .more{font-weight:700;color:var(--gold);margin-top:4px}.rlib:hover .more{text-decoration:underline}
+@media(max-width:980px){.res{grid-template-columns:1fr}}
+.pgrid{display:grid;grid-template-columns:1.25fr .75fr;gap:30px;align-items:start}
+.pvideo{border-radius:16px;overflow:hidden;background:#0B2545;box-shadow:0 10px 30px rgba(11,37,69,.18);aspect-ratio:16/9}
+.pvideo video{width:100%;height:100%;display:block}
+.pcap{font-size:14px;color:var(--mute);margin-top:10px}
+.plist{display:flex;flex-direction:column;gap:14px}
+.plist .card h3{margin-top:0}
+.pgrid.novideo{grid-template-columns:1fr}.pgrid.novideo .plist{display:grid;grid-template-columns:repeat(3,1fr)}
+@media(max-width:980px){.pgrid,.pgrid.novideo .plist{grid-template-columns:1fr}}
+</style>
+<link rel="alternate" type="text/plain" title="llms.txt" href="https://datos.softwareinabox.eu/llms.txt">
+<!-- I18N:BEGIN -->
+<link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/">
+<link rel="alternate" hreflang="en" href="https://datos.softwareinabox.eu/en/">
+<link rel="alternate" hreflang="fr" href="https://datos.softwareinabox.eu/fr/">
+<link rel="alternate" hreflang="de" href="https://datos.softwareinabox.eu/de/">
+<link rel="alternate" hreflang="nl" href="https://datos.softwareinabox.eu/nl/">
+<link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/">
+<link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/">
+<link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/">
+<link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/">
+<!-- I18N:END -->
+</head>
+<body>
+<header><div class="wrap nav">
+  <a class="brand" href="https://www.softwareinabox.eu/da/" aria-label="Software in a Box">
+    <svg width="34" height="34" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#0F4D55"/><circle cx="32" cy="32" r="8" fill="none" stroke="#C9A227" stroke-width="4"/><path d="M14 14l12 12M50 14 38 26M14 50l12-12M50 50 38 38" stroke="#C9A227" stroke-width="4"/></svg>
+    <span><b>Datarum</b><small>fra Software in a Box</small></span></a>
+  <nav class="menu" aria-label="Forside"><a href="#que-es">Hvad er det</a><a href="#tecnologia">Teknologi</a><a href="#experiencia">Erfaring</a><a href="#salud">Tandsundhed</a><a href="#partners">Partnere</a><a href="/da/ressourcer">Artikler og videoer</a><a class="btn btn-teal" href="#contacto">Kontakt os</a></nav>
+</div></header>
+
+<main>
+<section class="hero" style="padding:0"><div class="wrap">
+  <div>
+    <div class="eyebrow">Gaia-X · EHDS · Data Act</div>
+    <h1>Del data <em>uden at miste kontrollen</em></h1>
+    <p>Vi designer og implementerer fødererede datarum: hver organisation beholder sine data, bestemmer, hvem der bruger dem og til hvad, og kunstig intelligens lærer af mange uden at noget centraliseres.</p>
+    <div class="ctas"><a class="btn btn-gold" href="#partners">Se videoen for partnere</a><a class="btn btn-line" href="#contacto">Book et møde</a></div>
+  </div>
+  <svg viewBox="0 0 480 400" role="img" aria-label="Et netværk af fødererede noder omkring et fælles katalog">
+    <g stroke="#C9A227" stroke-width="2" stroke-dasharray="6 7" fill="none" opacity=".8"><path d="M240 200 90 80M240 200 390 80M240 200 80 320M240 200 400 320M240 200 240 40"/></g>
+    <circle cx="240" cy="200" r="70" fill="#0B2545" stroke="#C9A227" stroke-width="3"/>
+    <text x="240" y="194" text-anchor="middle" font-family="Montserrat" font-weight="800" font-size="14" fill="#fff">Katalog og</text>
+    <text x="240" y="214" text-anchor="middle" font-family="Montserrat" font-weight="800" font-size="14" fill="#fff">fælles regler</text>
+    <g font-family="Hanken Grotesk" font-size="13" font-weight="700" fill="#0B2545">
+      <rect x="30" y="52" width="120" height="54" rx="12" fill="#fff"/><text x="90" y="76" text-anchor="middle">Hospital</text><text x="90" y="94" text-anchor="middle" font-weight="500" fill="#5B6573">node + konnektor</text>
+      <rect x="330" y="52" width="120" height="54" rx="12" fill="#fff"/><text x="390" y="76" text-anchor="middle">Tandklinik</text><text x="390" y="94" text-anchor="middle" font-weight="500" fill="#5B6573">node i Azure</text>
+      <rect x="20" y="294" width="120" height="54" rx="12" fill="#fff"/><text x="80" y="318" text-anchor="middle">Industri</text><text x="80" y="336" text-anchor="middle" font-weight="500" fill="#5B6573">node + konnektor</text>
+      <rect x="340" y="294" width="120" height="54" rx="12" fill="#fff"/><text x="400" y="318" text-anchor="middle">AI-udvikler</text><text x="400" y="336" text-anchor="middle" font-weight="500" fill="#5B6573">forbruger</text>
+      <rect x="180" y="14" width="120" height="50" rx="12" fill="#DDF1EE"/><text x="240" y="44" text-anchor="middle">Universitet</text></g>
+  </svg>
+</div></section>
+
+<section id="que-es"><div class="wrap">
+  <div class="head"><div class="eyebrow dk">Hvad er det</div><h2>Et datarum er et sæt regler, ikke et lager</h2><p>Der er ingen stor central database. Der er organisationer, der genkender hinanden, et katalog over, hvad hver enkelt tilbyder, og kontrakter, der præcist angiver, hvad der må gøres med hvert stykke data.</p></div>
+  <div class="grid4">
+    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg></div><h3>Suverænitet</h3><p>Data bliver hos den, der har dem. Det er dem, der bestemmer, hvem der får adgang, til hvad og hvor længe.</p></div>
+    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="m16 16 3-8 3 8c-.9.6-1.9 1-3 1s-2.1-.4-3-1zM2 16l3-8 3 8c-.9.6-1.9 1-3 1s-2.1-.4-3-1zM7 21h10M12 3v18"/></svg></div><h3>ODRL-kontrakter</h3><p>Brugsvilkårene skrives, så en maskine kan håndhæve dem. Ingen kontrakt, ingen adgang.</p></div>
+    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M12 2a10 10 0 1 0 10 10"/><path d="m9 12 2 2 4-4"/></svg></div><h3>Gaia-X-tillid</h3><p>Hver organisation identificerer sig med verificerbare legitimationsoplysninger udstedt af tillidstjenester.</p></div>
+    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><rect x="4" y="4" width="16" height="16" rx="2"/><path d="M9 9h6v6H9z"/></svg></div><h3>AI uden at flytte data</h3><p>Modellerne trænes der, hvor data er (fødereret læring og fortrolig databehandling).</p></div>
+  </div>
+</div></section>
+
+<section class="soft" id="tecnologia"><div class="wrap">
+  <div class="head"><div class="eyebrow dk">Sådan fungerer det</div><h2>Fra kilde til resultat i seks trin</h2></div>
+  <div class="flow">
+    <div class="step"><div class="c">1</div><b>Forbind</b><span>en konnektor på hvert medlems node</span></div>
+    <div class="step"><div class="c">2</div><b>Normalisér</b><span>FHIR, DICOM, OMOP eller andre sektormodeller</span></div>
+    <div class="step"><div class="c">3</div><b>Udgiv</b><span>tilbud i kataloget (DCAT, HealthDCAT-AP)</span></div>
+    <div class="step"><div class="c">4</div><b>Aftal</b><span>forhandling med en ODRL-politik</span></div>
+    <div class="step"><div class="c">5</div><b>Beregn</b><span>algoritmen går til data</span></div>
+    <div class="step"><div class="c">6</div><b>Revidér</b><span>hvem, hvornår, hvad og under hvilken kontrakt</span></div>
+  </div>
+  <div class="grid2" style="margin-top:34px">
+    <div class="fam" style="background:#EEF2F7"><h3>“Web 2”-familien</h3><div class="sub" style="color:#1F4E79">Eclipse EDC · Tractus-X</div>
+      <ul><li><b>Dataspace Protocol</b><span>katalog, forhandling og overførsel</span></li><li><b>Identity Hub</b><span>verificerbare legitimationsoplysninger for organisationer</span></li><li><b>Kubernetes-udrulning</b><span>Helm og Terraform, i enhver sky eller on-premise</span></li></ul></div>
+    <div class="fam" style="background:#F6EED3"><h3>“Web 3”-familien</h3><div class="sub" style="color:#8A6D0B">Pontus-X · Gaia-X</div>
+      <ul><li><b>Beregning ved data</b><span>algoritmen rejser, data bliver</span></li><li><b>Distribueret register</b><span>sporbarhed for hver adgang</span></li><li><b>Sporbar indtjening</b><span>betaling pr. brug af data</span></li></ul></div>
+  </div>
+</div></section>
+
+<section id="experiencia"><div class="wrap">
+  <div class="head"><div class="eyebrow dk">Erfaring</div><h2>Afprøvet i tre rigtige datarum</h2><p>Software in a Box-teamet har deltaget i den teknologiske udvikling af tre datarum medfinansieret af det spanske SEDIA i 2024–2026.</p></div>
+  <div class="grid3">
+    <div class="card"><div class="num">SUNDHED</div><h3>Global Data Care</h3><p>Sundhedsdatarum på Pontus-X og Gaia-X, herunder compliance-arbejde til tillidslisten i det spanske datarumsprogram.</p></div>
+    <div class="card"><div class="num">INDKØB</div><h3>PROCUREDATA</h3><p>Datarum til indkøbsstyring med Eclipse-konnektorer og integration med eksisterende ERP-systemer.</p></div>
+    <div class="card"><div class="num">CIRKULÆR ØKONOMI</div><h3>EcoDataNet</h3><p>Sporbarhed for affald og cirkulær økonomi med brugspolitikker og verificerbare legitimationsoplysninger.</p></div>
+  </div>
+  <div class="chips"><span class="chip">GDPR</span><span class="chip">EHDS (forordning (EU) 2025/327)</span><span class="chip">Dataforordningen</span><span class="chip">Datastyringsforordningen</span><span class="chip">AI-forordningen</span><span class="chip">NIS2</span><span class="chip">Gaia-X Trust Framework</span></div>
+</div></section>
+
+<section class="dental" id="salud"><div class="wrap">
+  <div class="head"><div class="eyebrow">Første vertikal</div><h2>Et datarum for tandklinikker med AI på Microsoft Azure</h2><p>Et netværk af klinikker, der træner og forbedrer diagnostisk AI, uden at patientdata nogensinde forlader den enkelte klinik. Microsoft inde i noden; åbne standarder ved grænsen.</p></div>
+  <div class="dgrid">
+    <div class="dcard"><h3>Hvad det omfatter</h3><ul>
+      <li>En datanode pr. klinik eller kæde i Azure Denmark East: journaldata i FHIR og billeder i DICOM, pseudonymiseret ved kilden.</li>
+      <li>AI til diagnostisk støtte: approksimal caries og parodontalt knogletab på røntgenbilleder, valideret af tandlægen.</li>
+      <li>Journalassistent: resumé af historikken og et udkast til behandlingsplan, som kan gennemgås.</li>
+      <li>Eclipse EDC-konnektor, HealthDCAT-AP-katalog og ODRL-kontrakter mellem medlemmerne.</li>
+      <li>Fødereret træning på tværs af klinikker med fortrolig databehandling.</li></ul>
+      <div class="kpi"><div><b>3 + 3</b><span>måneders MVP og pilot</span></div><div><b>3–5</b><span>klinikker i piloten</span></div><div><b>0</b><span>kliniske data uden for klinikken</span></div></div></div>
+    <div class="dcard"><h3>Hvorfor nu</h3><div class="tl">
+      <div><b>26/03/2027</b><span>EHDS finder generel anvendelse</span></div>
+      <div><b>02/08/2028</b><span>AI-forordningen for AI i medicinsk udstyr</span></div>
+      <div><b>26/03/2029</b><span>Sekundær brug af sundhedsdata med tilladelse</span></div>
+      <div><b>2031</b><span>Medicinske billeder i MyHealth@EU</span></div></div></div>
+  </div>
+</div></section>
+
+<section id="partners"><div class="wrap">
+  <div class="head"><div class="eyebrow dk">Partnerprogram · Microsoft Azure i Danmark</div><h2>Et sundhedsdatarum, som jeres team kan sælge</h2><p>Vi søger danske Microsoft-partnere, integratorer og softwareudviklere, der vil tilbyde deres kunder et fødereret datarum på Azure Denmark East. Vi bidrager med netværket, datamodellen og en neutral drift; I sælger, implementerer og driver.</p></div>
+  <div class="pgrid" id="pgrid">
+    <div id="pvideo-box"><div class="pvideo"><video id="pvideo" controls preload="none" playsinline aria-label="Video for Microsoft-partnere i Danmark"></video></div>
+      <p class="pcap">Partnerbriefing for Danmark · ca. 6 minutter · på engelsk</p></div>
+    <div class="plist">
+      <div class="card"><h3>Ingen egen F&amp;U</h3><p>En referencearkitektur på Azure (FHIR, DICOM, Fabric og AI) og Eclipse-konnektorer, der allerede er afprøvet i tre rigtige datarum.</p></div>
+      <div class="card"><h3>Tilbagevendende omsætning</h3><p>Implementering pr. kunde, Azure-forbrug i Danmark, managed services og overholdelse af EHDS og AI-forordningen.</p></div>
+      <div class="card"><h3>En neutral operatør</h3><p>Vi driver netværkets grænse. Kunden, kontrakten og relationen forbliver jeres.</p></div>
+    </div>
+  </div>
+  <div class="chips"><span class="chip">Microsoft-partnere</span><span class="chip">Teknologiintegratorer</span><span class="chip">Softwareudviklere</span></div>
+  <div class="ctas"><a class="btn btn-teal" href="#contacto">Bestil partnerbriefingen</a></div>
+</div></section>
+<script data-i18n="skip">
+(function(){var V={da:'https://datos.softwareinabox.eu/assets/video/partners-da'};var l=document.documentElement.lang,v=document.getElementById('pvideo');
+if(V[l]){v.src=V[l]+'.mp4';v.poster=V[l]+'.jpg';}else{document.getElementById('pvideo-box').remove();document.getElementById('pgrid').classList.add('novideo');}})();
+</script>
+<section class="soft" id="recursos"><div class="wrap">
+  <div class="head"><div class="eyebrow dk">Artikler og videoer</div><h2>Forstå, hvor datarummene er på vej hen</h2><p>Vi udvælger videoer og skriver artikler om den regulering, de standarder og den teknologi, der former de europæiske datarum.</p></div>
+  <div class="res">
+    <div class="rcard"><div class="yt"><button class="yt-play" type="button" data-yt="r1-WElzW9vY" aria-label="Afspil videoen fra StandICT_eu-webinaret"><span class="yt-ic"><svg width="28" height="28" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z" fill="#0B2545"/></svg></span><span class="yt-t"><b>Geopolitics of ICT Standardisation</b><small>StandICT_eu · webinar · 1 t 36 min · på engelsk</small></span></button></div>
+      <div class="rb"><div class="rtag">Video</div><h3>Datastandardiseringens geopolitik</h3><p>Europa-Kommissionen, CEN/CENELEC JTC 25, ETSI TC DATA, IDSA og DSSC forklarer dataforordningen, betroede datatransaktioner og de standarder, som ethvert datarum skal tale.</p><p style="font-size:13px">Indlæses fra YouTube i udvidet privatlivstilstand, når du klikker. <a href="https://www.youtube.com/watch?v=r1-WElzW9vY" target="_blank" rel="noopener">Se på YouTube</a></p></div></div>
+    <a class="rcard" href="/da/artikler/datastandardernes-geopolitik" style="text-decoration:none;color:inherit"><div class="rart"><span>Datastandarder: <em>hvem sætter reglerne</em></span></div>
+      <div class="rb"><div class="rtag">Artikel · 9 min</div><h3>Datastandardernes geopolitik: hvad der besluttes i Europa, og hvorfor det betyder noget</h3><p>Dataforordningen og Digital Omnibus, dataproduktet, ODRL, verificerbare legitimationsoplysninger og DCAT, og om Europa kan eksportere sin model. Vores kommenterede resumé af webinaret.</p><span class="more">Læs artiklen →</span></div></a>
+  </div>
+  <a class="rlib" href="/da/ressourcer"><span class="rtag">Bibliotek</span><b>IDSA's 5 kerneaktiver: artikler, videoer og forskning</b><span class="rl">Over 50 håndplukkede ressourcer om referencemodellen, Dataspace Protocol, Rulebook, uddannelse og certificering, med videnskabelige artikler og standarder.</span><span class="more">Åbn biblioteket →</span></a>
+</div></section>
+
+<section class="cta" id="contacto"><div class="wrap">
+  <h2>Vil I integrere vores datarum i jeres Azure-tilbud?</h2>
+  <p>Vi hjælper med at definere reglerne, udrulle noderne og sætte AI i arbejde på data, der forbliver jeres kunders.</p>
+  <form class="cform" action="https://formsubmit.co/emilio.mulet@softwareinabox.eu" method="POST">
+    <input type="hidden" name="_subject" value="Nueva consulta · Espacios de datos [DA]">
+    <input type="hidden" name="_template" value="table"><input type="hidden" name="_captcha" value="false">
+    <input type="hidden" name="_next" value="https://www.softwareinabox.eu/da/gracias.html">
+    <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
+    <label class="sr" for="d-n">Navn</label><input id="d-n" name="Nombre" required placeholder="For- og efternavn" autocomplete="name">
+    <label class="sr" for="d-o">Organisation</label><input id="d-o" name="Organización" placeholder="Organisation">
+    <label class="sr" for="d-p">Profil</label><select id="d-p" class="full" name="Perfil"><option value="">Jeres organisations profil</option><option>Microsoft-partner</option><option>Teknologiintegrator</option><option>Softwareudvikler</option><option>Andet</option></select>
+    <label class="sr" for="d-e">E-mail</label><input id="d-e" class="full" type="email" name="Email" required placeholder="Arbejdsmail" autocomplete="email">
+    <label class="sr" for="d-m">Besked</label><textarea id="d-m" name="Mensaje" placeholder="Vil I tilbyde datarummet til jeres kunder, integrere det i jeres software eller høre mere om sundhedsvertikalen?"></textarea>
+    <label class="ok full"><input type="checkbox" name="Consentimiento" value="Acepta la política de privacidad" required><span>Jeg har læst og accepterer <a href="https://www.softwareinabox.eu/da/privacidad.html" target="_blank" rel="noopener">privatlivspolitikken</a>. Vi bruger kun dine oplysninger til at svare dig.</span></label>
+    <button class="btn btn-gold" type="submit">Send forespørgsel</button>
+  </form>
+  <p style="font-size:15px;margin-top:18px">Eller skriv til <a href="mailto:emilio.mulet@softwareinabox.eu" style="color:#fff;font-weight:600">emilio.mulet@softwareinabox.eu</a> · <a href="tel:+34601398868" style="color:#fff;font-weight:600">+34 601 398 868</a></p>
+</div></section>
+</main>
+
+<footer><div class="wrap ft">
+  <div>© 2026 Software in a Box · Fødererede datarum</div>
+  <div><a href="https://www.softwareinabox.eu/da/">Software in a Box</a><a href="https://cognitiv.softwareinabox.eu/da/">COGNITIV</a><a href="https://argos.softwareinabox.eu/da/">ARGOS</a></div>
+</div><div class="wrap ft-legal"><a href="https://www.softwareinabox.eu/da/aviso-legal.html">Juridisk meddelelse</a><a href="https://www.softwareinabox.eu/da/privacidad.html">Privatliv</a><a href="https://www.softwareinabox.eu/da/cookies.html">Cookies</a></div></footer>
+<script data-i18n="skip">
+document.querySelectorAll('.yt-play').forEach(function(b){b.addEventListener('click',function(){var f=document.createElement('iframe');f.src='https://www.youtube-nocookie.com/embed/'+b.getAttribute('data-yt')+'?autoplay=1&rel=0';f.title=b.getAttribute('aria-label');f.setAttribute('allow','autoplay; encrypted-media; picture-in-picture; fullscreen');f.setAttribute('allowfullscreen','');b.parentNode.replaceChild(f,b);});});
+</script>
+<!-- I18N-SW:BEGIN --><style>.i18n-sw{position:fixed;left:16px;bottom:16px;z-index:2147483000;font:600 14px/1.2 system-ui,-apple-system,'Segoe UI',sans-serif}.i18n-sw details{background:#0B2545;color:#fff;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.25);overflow:hidden}.i18n-sw summary{list-style:none;cursor:pointer;padding:10px 14px;display:flex;align-items:center;gap:8px;user-select:none}.i18n-sw summary::-webkit-details-marker{display:none}.i18n-sw summary:focus-visible,.i18n-sw a:focus-visible{outline:3px solid #C9A227;outline-offset:-3px}.i18n-sw ul{list-style:none;margin:0;padding:4px 0 8px;border-top:1px solid rgba(255,255,255,.15)}.i18n-sw a{display:block;padding:7px 16px;color:#C9D3E0;text-decoration:none;font-weight:500}.i18n-sw a:hover{color:#fff;background:rgba(255,255,255,.08)}.i18n-sw a[aria-current]{color:#C9A227;font-weight:700}@media print{.i18n-sw{display:none}}</style><nav class="i18n-sw" aria-label="Sprog"><details><summary><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15 15 0 0 1 0 20M12 2a15 15 0 0 0 0 20"/></svg>DA</summary><ul><li><a href="https://datos.softwareinabox.eu/" hreflang="es" lang="es">Español</a></li><li><a href="https://datos.softwareinabox.eu/en/" hreflang="en" lang="en">English</a></li><li><a href="https://datos.softwareinabox.eu/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="https://datos.softwareinabox.eu/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="https://datos.softwareinabox.eu/nl/" hreflang="nl" lang="nl">Nederlands</a></li><li><a href="https://datos.softwareinabox.eu/pt/" hreflang="pt" lang="pt">Português</a></li><li><a href="https://datos.softwareinabox.eu/it/" hreflang="it" lang="it">Italiano</a></li><li><a href="https://datos.softwareinabox.eu/da/" hreflang="da" lang="da" aria-current="true">Dansk</a></li></ul></details></nav><!-- I18N-SW:END -->
+</body>
+</html>

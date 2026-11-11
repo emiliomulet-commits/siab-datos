@@ -18,8 +18,8 @@
   ]
  },
  {
-  "id": "05acc31006",
-  "src": "<a href=\"#que-es\">Qué es</a><a href=\"#tecnologia\">Tecnología</a><a href=\"#experiencia\">Experiencia</a><a href=\"#salud\">Salud dental</a><a href=\"/recursos\">Artículos y vídeos</a><a class=\"btn btn-teal\" href=\"#contacto\">Hablemos</a>",
+  "id": "ef58f95e90",
+  "src": "<a href=\"#que-es\">Qué es</a><a href=\"#tecnologia\">Tecnología</a><a href=\"#experiencia\">Experiencia</a><a href=\"#salud\">Salud dental</a><a href=\"#partners\">Partners</a><a href=\"/recursos\">Artículos y vídeos</a><a class=\"btn btn-teal\" href=\"#contacto\">Hablemos</a>",
   "kind": "html",
   "pages": [
    "index.html"
@@ -658,6 +658,102 @@
   ]
  },
  {
+  "id": "ca4249a004",
+  "src": "Programa de partners · Microsoft Azure",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "cfe25362ef",
+  "src": "Un espacio de datos sanitarios listo para que lo venda su equipo",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "ff62835d88",
+  "src": "Buscamos partners de Microsoft, integradores y desarrolladores de software que quieran ofrecer a sus clientes un espacio de datos federado sobre Azure. Nosotros aportamos la red, el modelo de datos y la operación neutral; usted vende, despliega y opera.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "0c7830762b",
+  "src": "Briefing para partners · unos 6 minutos · en inglés",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "3ff4976c84",
+  "src": "Sin I+D propia",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "358ac82cac",
+  "src": "Arquitectura de referencia en Azure (FHIR, DICOM, Fabric e IA) y conectores Eclipse ya probados en tres espacios de datos reales.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "305add9eb4",
+  "src": "Ingresos recurrentes",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "232f702bfd",
+  "src": "Despliegue por cliente, consumo de Azure, servicios gestionados y cumplimiento del EHDS y del Reglamento de IA.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "ab81031df9",
+  "src": "Un operador neutral",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "b53e55aa68",
+  "src": "Nosotros operamos la frontera de la red. El cliente, el contrato y la relación siguen siendo suyos.",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "1fcb7d875c",
+  "src": "<span class=\"chip\">Partners de Microsoft</span><span class=\"chip\">Integradores de tecnología</span><span class=\"chip\">Desarrolladores de software</span>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "b006101721",
+  "src": "<a class=\"btn btn-teal\" href=\"#contacto\">Solicitar el briefing para partners</a>",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
   "id": "95b0ffc7d6",
   "src": "Artículos y vídeos",
   "kind": "html",
@@ -802,6 +898,54 @@
  {
   "id": "b42872a07b",
   "src": "Organización",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "d197d56718",
+  "src": "Perfil",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "5140b76ea6",
+  "src": "Perfil de su organización",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "b493c24849",
+  "src": "Partner de Microsoft",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "261aaf3bd8",
+  "src": "Integrador de tecnología",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "469c429d29",
+  "src": "Desarrollador de software",
+  "kind": "html",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "ada1c1ef4a",
+  "src": "Otro",
   "kind": "html",
   "pages": [
    "index.html"
@@ -958,6 +1102,14 @@
  {
   "id": "35ec8dedad",
   "src": "Red de nodos federados alrededor de un catálogo común",
+  "kind": "attr",
+  "pages": [
+   "index.html"
+  ]
+ },
+ {
+  "id": "6cebd7d769",
+  "src": "Vídeo para partners de Microsoft",
   "kind": "attr",
   "pages": [
    "index.html"

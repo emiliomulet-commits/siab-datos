@@ -126,6 +126,14 @@ footer{background:#081A33;color:#AAB7C8;padding:34px 0;font-size:14.5px}.ft{disp
 .yt-t b{display:block;font-family:'Montserrat';font-size:19px;line-height:1.25}.yt-t small{display:block;color:#C9D3E0;font-size:13.5px;margin-top:6px}
 .rlib{display:flex;flex-direction:column;gap:6px;margin-top:24px;padding:24px 26px;border-radius:16px;text-decoration:none;color:#fff;background:radial-gradient(700px 260px at 95% 0%,#1B998B66,transparent 60%),linear-gradient(160deg,#0B2545,#0F4D55);box-shadow:0 10px 30px rgba(11,37,69,.18)}.rlib .rtag{color:var(--gold)}.rlib b{font-family:'Montserrat';font-size:21px;line-height:1.25}.rlib .rl{color:#C9D3E0;font-size:15.5px;max-width:860px}.rlib .more{font-weight:700;color:var(--gold);margin-top:4px}.rlib:hover .more{text-decoration:underline}
 @media(max-width:980px){.res{grid-template-columns:1fr}}
+.pgrid{display:grid;grid-template-columns:1.25fr .75fr;gap:30px;align-items:start}
+.pvideo{border-radius:16px;overflow:hidden;background:#0B2545;box-shadow:0 10px 30px rgba(11,37,69,.18);aspect-ratio:16/9}
+.pvideo video{width:100%;height:100%;display:block}
+.pcap{font-size:14px;color:var(--mute);margin-top:10px}
+.plist{display:flex;flex-direction:column;gap:14px}
+.plist .card h3{margin-top:0}
+.pgrid.novideo{grid-template-columns:1fr}.pgrid.novideo .plist{display:grid;grid-template-columns:repeat(3,1fr)}
+@media(max-width:980px){.pgrid,.pgrid.novideo .plist{grid-template-columns:1fr}}
 </style>
 <link rel="alternate" type="text/plain" title="llms.txt" href="https://datos.softwareinabox.eu/llms.txt">
 <!-- I18N:BEGIN -->
@@ -136,6 +144,7 @@ footer{background:#081A33;color:#AAB7C8;padding:34px 0;font-size:14.5px}.ft{disp
 <link rel="alternate" hreflang="nl" href="https://datos.softwareinabox.eu/nl/">
 <link rel="alternate" hreflang="pt" href="https://datos.softwareinabox.eu/pt/">
 <link rel="alternate" hreflang="it" href="https://datos.softwareinabox.eu/it/">
+<link rel="alternate" hreflang="da" href="https://datos.softwareinabox.eu/da/">
 <link rel="alternate" hreflang="x-default" href="https://datos.softwareinabox.eu/en/">
 <!-- I18N:END -->
 </head>
@@ -144,7 +153,7 @@ footer{background:#081A33;color:#AAB7C8;padding:34px 0;font-size:14.5px}.ft{disp
   <a class="brand" href="https://www.softwareinabox.eu/it/" aria-label="Software in a Box">
     <svg width="34" height="34" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#0F4D55"/><circle cx="32" cy="32" r="8" fill="none" stroke="#C9A227" stroke-width="4"/><path d="M14 14l12 12M50 14 38 26M14 50l12-12M50 50 38 38" stroke="#C9A227" stroke-width="4"/></svg>
     <span><b>Spazi di dati</b><small>di Software in a Box</small></span></a>
-  <nav class="menu" aria-label="Menu principale"><a href="#que-es">Cos'è</a><a href="#tecnologia">Tecnologia</a><a href="#experiencia">Esperienza</a><a href="#salud">Odontoiatria</a><a href="/it/risorse">Articoli e video</a><a class="btn btn-teal" href="#contacto">Parliamone</a></nav>
+  <nav class="menu" aria-label="Menu principale"><a href="#que-es">Cos'è</a><a href="#tecnologia">Tecnologia</a><a href="#experiencia">Esperienza</a><a href="#salud">Odontoiatria</a><a href="#partners">Partners</a><a href="/it/risorse">Articoli e video</a><a class="btn btn-teal" href="#contacto">Parliamone</a></nav>
 </div></header>
 
 <main>
@@ -225,6 +234,24 @@ footer{background:#081A33;color:#AAB7C8;padding:34px 0;font-size:14.5px}.ft{disp
   </div>
 </div></section>
 
+<section id="partners"><div class="wrap">
+  <div class="head"><div class="eyebrow dk">Programma partner · Microsoft Azure</div><h2>Uno spazio di dati sanitari pronto da vendere per il vostro team</h2><p>Cerchiamo partner Microsoft, integratori e sviluppatori di software che vogliano offrire ai propri clienti uno spazio di dati federato su Azure. Noi portiamo la rete, il modello di dati e la gestione neutrale; voi vendete, implementate e gestite.</p></div>
+  <div class="pgrid" id="pgrid">
+    <div id="pvideo-box"><div class="pvideo"><video id="pvideo" controls preload="none" playsinline aria-label="Video per i partner Microsoft"></video></div>
+      <p class="pcap">Presentazione per i partner · circa 6 minuti · in inglese</p></div>
+    <div class="plist">
+      <div class="card"><h3>Nessuna R&amp;S propria</h3><p>Un’architettura di riferimento su Azure (FHIR, DICOM, Fabric e IA) e connettori Eclipse già collaudati in tre spazi di dati reali.</p></div>
+      <div class="card"><h3>Ricavi ricorrenti</h3><p>Implementazione per cliente, consumo Azure, servizi gestiti e conformità all’EHDS e al regolamento sull’IA.</p></div>
+      <div class="card"><h3>Un gestore neutrale</h3><p>Noi gestiamo la frontiera della rete. Il cliente, il contratto e la relazione restano vostri.</p></div>
+    </div>
+  </div>
+  <div class="chips"><span class="chip">Partner Microsoft</span><span class="chip">Integratori di tecnologia</span><span class="chip">Sviluppatori di software</span></div>
+  <div class="ctas"><a class="btn btn-teal" href="#contacto">Richiedi la presentazione per i partner</a></div>
+</div></section>
+<script data-i18n="skip">
+(function(){var V={da:'https://datos.softwareinabox.eu/assets/video/partners-da'};var l=document.documentElement.lang,v=document.getElementById('pvideo');
+if(V[l]){v.src=V[l]+'.mp4';v.poster=V[l]+'.jpg';}else{document.getElementById('pvideo-box').remove();document.getElementById('pgrid').classList.add('novideo');}})();
+</script>
 <section class="soft" id="recursos"><div class="wrap">
   <div class="head"><div class="eyebrow dk">Articoli e video</div><h2>Per capire dove stanno andando gli spazi di dati</h2><p>Selezioniamo video e scriviamo articoli sulla regolamentazione, gli standard e la tecnologia che danno forma agli spazi di dati europei.</p></div>
   <div class="res">
@@ -246,6 +273,7 @@ footer{background:#081A33;color:#AAB7C8;padding:34px 0;font-size:14.5px}.ft{disp
     <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
     <label class="sr" for="d-n">Nome</label><input id="d-n" name="Nombre" required placeholder="Nome e cognome" autocomplete="name">
     <label class="sr" for="d-o">Organizzazione</label><input id="d-o" name="Organización" placeholder="Organizzazione">
+    <label class="sr" for="d-p">Profilo</label><select id="d-p" class="full" name="Perfil"><option value="">Profilo della vostra organizzazione</option><option>Partner Microsoft</option><option>Integratore di tecnologia</option><option>Sviluppatore di software</option><option>Altro</option></select>
     <label class="sr" for="d-e">E-mail</label><input id="d-e" class="full" type="email" name="Email" required placeholder="E-mail aziendale" autocomplete="email">
     <label class="sr" for="d-m">Messaggio</label><textarea id="d-m" name="Mensaje" placeholder="Volete creare uno spazio di dati, entrare in uno esistente o esplorare il verticale sanitario?"></textarea>
     <label class="ok full"><input type="checkbox" name="Consentimiento" value="Acepta la política de privacidad" required><span>Ho letto e accetto l'<a href="https://www.softwareinabox.eu/it/privacidad.html" target="_blank" rel="noopener">informativa sulla privacy</a>. Useremo i vostri dati solo per rispondervi.</span></label>
@@ -262,6 +290,6 @@ footer{background:#081A33;color:#AAB7C8;padding:34px 0;font-size:14.5px}.ft{disp
 <script data-i18n="skip">
 document.querySelectorAll('.yt-play').forEach(function(b){b.addEventListener('click',function(){var f=document.createElement('iframe');f.src='https://www.youtube-nocookie.com/embed/'+b.getAttribute('data-yt')+'?autoplay=1&rel=0';f.title=b.getAttribute('aria-label');f.setAttribute('allow','autoplay; encrypted-media; picture-in-picture; fullscreen');f.setAttribute('allowfullscreen','');b.parentNode.replaceChild(f,b);});});
 </script>
-<!-- I18N-SW:BEGIN --><style>.i18n-sw{position:fixed;left:16px;bottom:16px;z-index:2147483000;font:600 14px/1.2 system-ui,-apple-system,'Segoe UI',sans-serif}.i18n-sw details{background:#0B2545;color:#fff;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.25);overflow:hidden}.i18n-sw summary{list-style:none;cursor:pointer;padding:10px 14px;display:flex;align-items:center;gap:8px;user-select:none}.i18n-sw summary::-webkit-details-marker{display:none}.i18n-sw summary:focus-visible,.i18n-sw a:focus-visible{outline:3px solid #C9A227;outline-offset:-3px}.i18n-sw ul{list-style:none;margin:0;padding:4px 0 8px;border-top:1px solid rgba(255,255,255,.15)}.i18n-sw a{display:block;padding:7px 16px;color:#C9D3E0;text-decoration:none;font-weight:500}.i18n-sw a:hover{color:#fff;background:rgba(255,255,255,.08)}.i18n-sw a[aria-current]{color:#C9A227;font-weight:700}@media print{.i18n-sw{display:none}}</style><nav class="i18n-sw" aria-label="Lingua"><details><summary><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15 15 0 0 1 0 20M12 2a15 15 0 0 0 0 20"/></svg>IT</summary><ul><li><a href="https://datos.softwareinabox.eu/" hreflang="es" lang="es">Español</a></li><li><a href="https://datos.softwareinabox.eu/en/" hreflang="en" lang="en">English</a></li><li><a href="https://datos.softwareinabox.eu/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="https://datos.softwareinabox.eu/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="https://datos.softwareinabox.eu/nl/" hreflang="nl" lang="nl">Nederlands</a></li><li><a href="https://datos.softwareinabox.eu/pt/" hreflang="pt" lang="pt">Português</a></li><li><a href="https://datos.softwareinabox.eu/it/" hreflang="it" lang="it" aria-current="true">Italiano</a></li></ul></details></nav><!-- I18N-SW:END -->
+<!-- I18N-SW:BEGIN --><style>.i18n-sw{position:fixed;left:16px;bottom:16px;z-index:2147483000;font:600 14px/1.2 system-ui,-apple-system,'Segoe UI',sans-serif}.i18n-sw details{background:#0B2545;color:#fff;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.25);overflow:hidden}.i18n-sw summary{list-style:none;cursor:pointer;padding:10px 14px;display:flex;align-items:center;gap:8px;user-select:none}.i18n-sw summary::-webkit-details-marker{display:none}.i18n-sw summary:focus-visible,.i18n-sw a:focus-visible{outline:3px solid #C9A227;outline-offset:-3px}.i18n-sw ul{list-style:none;margin:0;padding:4px 0 8px;border-top:1px solid rgba(255,255,255,.15)}.i18n-sw a{display:block;padding:7px 16px;color:#C9D3E0;text-decoration:none;font-weight:500}.i18n-sw a:hover{color:#fff;background:rgba(255,255,255,.08)}.i18n-sw a[aria-current]{color:#C9A227;font-weight:700}@media print{.i18n-sw{display:none}}</style><nav class="i18n-sw" aria-label="Lingua"><details><summary><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15 15 0 0 1 0 20M12 2a15 15 0 0 0 0 20"/></svg>IT</summary><ul><li><a href="https://datos.softwareinabox.eu/" hreflang="es" lang="es">Español</a></li><li><a href="https://datos.softwareinabox.eu/en/" hreflang="en" lang="en">English</a></li><li><a href="https://datos.softwareinabox.eu/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="https://datos.softwareinabox.eu/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="https://datos.softwareinabox.eu/nl/" hreflang="nl" lang="nl">Nederlands</a></li><li><a href="https://datos.softwareinabox.eu/pt/" hreflang="pt" lang="pt">Português</a></li><li><a href="https://datos.softwareinabox.eu/it/" hreflang="it" lang="it" aria-current="true">Italiano</a></li><li><a href="https://datos.softwareinabox.eu/da/" hreflang="da" lang="da">Dansk</a></li></ul></details></nav><!-- I18N-SW:END -->
 </body>
 </html>

@@ -23,3 +23,4 @@ El equipo de Software in a Box ha participado en el desarrollo tecnológico de t
 - [Nederlands](https://datos.softwareinabox.eu/nl/)
 - [Português](https://datos.softwareinabox.eu/pt/)
 - [Italiano](https://datos.softwareinabox.eu/it/)
+- [Dansk](https://datos.softwareinabox.eu/da/)
