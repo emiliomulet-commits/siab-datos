@@ -567,4 +567,7 @@ def build(only=None):
 
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "build"
+    import siab_bar  # franja común «Software in a Box»: fuera durante la extracción y el build, se vuelve a poner al final
+    siab_bar.strip_all(ROOT)
     {"extract": extract, "status": status}.get(cmd, lambda: build(sys.argv[2:]))()
+    siab_bar.run(ROOT)
