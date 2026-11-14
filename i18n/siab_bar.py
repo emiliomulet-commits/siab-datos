@@ -13,8 +13,8 @@ import re
 
 WWW = "https://www.softwareinabox.eu"
 PRODUCTS = [  # clave, subdominio, idiomas propios
-    ("cognitiv", "https://cognitiv.softwareinabox.eu", ["es", "en", "fr", "de", "nl", "pt", "it"]),
-    ("argos", "https://argos.softwareinabox.eu", ["es", "en", "fr", "de", "nl", "pt", "it"]),
+    ("cognitiv", "https://cognitiv.softwareinabox.eu", ["es", "en", "fr", "de", "nl", "pt", "it", "da", "fr-be", "nl-be"]),
+    ("argos", "https://argos.softwareinabox.eu", ["es", "en", "fr", "de", "nl", "pt", "it", "da", "fr-be", "nl-be"]),
     ("datos", "https://datos.softwareinabox.eu", ["es", "en", "fr", "de", "nl", "pt", "it", "da", "fr-be", "nl-be"]),
 ]
 FALLBACK = {"da": "en", "fr-be": "fr", "nl-be": "nl"}
