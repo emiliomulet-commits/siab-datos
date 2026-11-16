@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://datos.softwareinabox.eu/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/"/>
@@ -19,7 +19,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/en/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/"/>
@@ -36,7 +36,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/fr/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/"/>
@@ -53,7 +53,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/de/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/"/>
@@ -70,7 +70,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/nl/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/"/>
@@ -87,7 +87,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/pt/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/"/>
@@ -104,7 +104,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/it/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/"/>
@@ -121,7 +121,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/da/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/"/>
@@ -138,7 +138,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/fr-be/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/"/>
@@ -155,7 +155,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/nl-be/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/"/>
@@ -172,7 +172,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/recursos</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/recursos"/>
@@ -189,7 +189,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/en/resources</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/recursos"/>
@@ -206,7 +206,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/fr/ressources</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/recursos"/>
@@ -223,7 +223,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/de/ressourcen</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/recursos"/>
@@ -240,7 +240,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/nl/bronnen</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/recursos"/>
@@ -257,7 +257,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/pt/recursos</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/recursos"/>
@@ -274,7 +274,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/it/risorse</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/recursos"/>
@@ -291,7 +291,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/da/ressourcer</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/recursos"/>
@@ -308,7 +308,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/fr-be/ressources</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/recursos"/>
@@ -325,7 +325,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/nl-be/bronnen</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/recursos"/>
@@ -342,7 +342,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/articulos/geopolitica-estandarizacion-datos</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/articulos/geopolitica-estandarizacion-datos"/>
@@ -359,7 +359,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/en/articles/geopolitics-of-data-standards</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/articulos/geopolitica-estandarizacion-datos"/>
@@ -376,7 +376,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/fr/articles/geopolitique-des-normes-de-donnees</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/articulos/geopolitica-estandarizacion-datos"/>
@@ -393,7 +393,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/de/artikel/geopolitik-der-datenstandards</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/articulos/geopolitica-estandarizacion-datos"/>
@@ -410,7 +410,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/nl/artikelen/geopolitiek-van-datastandaarden</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/articulos/geopolitica-estandarizacion-datos"/>
@@ -427,7 +427,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/pt/artigos/geopolitica-das-normas-de-dados</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/articulos/geopolitica-estandarizacion-datos"/>
@@ -444,7 +444,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/it/articoli/geopolitica-degli-standard-dei-dati</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/articulos/geopolitica-estandarizacion-datos"/>
@@ -461,7 +461,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/da/artikler/datastandardernes-geopolitik</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/articulos/geopolitica-estandarizacion-datos"/>
@@ -478,7 +478,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/fr-be/articles/geopolitique-des-normes-de-donnees</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/articulos/geopolitica-estandarizacion-datos"/>
@@ -495,7 +495,7 @@
   </url>
   <url>
     <loc>https://datos.softwareinabox.eu/nl-be/artikelen/geopolitiek-van-datastandaarden</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://datos.softwareinabox.eu/articulos/geopolitica-estandarizacion-datos"/>
